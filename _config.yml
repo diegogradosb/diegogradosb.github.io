@@ -16,8 +16,10 @@ baseurl: ""
 # Name of website
 title: Diego Grados Bedoya
 
+subtitle: PhD. Student / R Enthusiast.
+
 # Short description of your site
-description: PhD. Student and R Enthusiast.
+description: PhD. Student / R Enthusiast.
 
 # --- Navigation bar options --- #
 
@@ -36,6 +38,12 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+
+bigimg:
+	-"img/pic1.JPG":""
+	-"img/pic2.JPG":""
+	-"img/pic3.JPG":""
+    -"img/pic4.JPG":""
 
 # --- Footer options --- #
 
@@ -84,7 +92,7 @@ share-links-active:
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "UA-92968660-1"
 
 # Facebook App ID
 # fb_app_id: ""
