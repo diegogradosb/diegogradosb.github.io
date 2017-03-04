@@ -14,5 +14,5 @@ layout: page
 * [dgrados@lamolina.edu.pe](mailto:dgrados@lamolina.edu.pe)
 
 ### Education
-* Ph.D (2016-Present), Applied Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
+* Ph.D (2016-Present), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
 * B.Sc (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
