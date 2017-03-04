@@ -2,7 +2,7 @@
 layout: page
 ---
 
-##  PhD. Student , [KU Leuven](https://set.kuleuven.be/phd)
+##  PhD. Student
 
 ### Contact
 * Division of Mechatronics, Biostatistics and Sensors (MeBioS)
