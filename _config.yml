@@ -1,23 +1,23 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://droglenc.github.io"
+url: "http://diegogradosb.github.io"
 # baseurl is the website's URL without the hostname
 baseurl: ""
 
 # Name of website
-title: Derek Ogle
+title: Diego Grados Bedoya
 # Short description of your site
-description: Professor of Mathemetical Sciences and Natural Resources at Northland College.
+description: PhD. Student / R Enthusiast
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/DerekOgle.jpg"
+avatar: "/img/pic_avatar.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "teaching"
+  #Teaching: "teaching"
   Research: "research"
   Personal: "personal"
   About/Contact: "aboutme"
@@ -28,24 +28,24 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Derek H. Ogle
-  email: "dogle@northland.edu"
-  github: droglenc
-  twitter: droglenc
+  name: Diego Grados Bedoya
+  email: "diego.gradosbedoya@kuleuven.be"
+  github: diegogradosb
+  twitter: diegogradosb
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "derekogle.com"
+#url-pretty: ""
 
 # --- Misc --- #
 
@@ -53,12 +53,12 @@ url-pretty: "derekogle.com"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67615311-1"
+google_analytics: "UA-92968660-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Chicago"
+timezone: "America/Lima"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
