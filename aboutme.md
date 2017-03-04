@@ -2,7 +2,8 @@
 layout: page
 ---
 
-##  PhD. Student
+##  Ph.D. Student
+* Leuven Arenberg Doctoral School, [Leuven Arenberg Doctoral School](https://set.kuleuven.be/phd) 
 
 ### Contact
 * Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
