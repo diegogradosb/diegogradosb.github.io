@@ -92,7 +92,7 @@ share-links-active:
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: "UA-92968660-1"
+gtm: "UA-92968660-1"
 
 # Facebook App ID
 # fb_app_id: ""
