@@ -9,8 +9,6 @@ layout: page
 * Biosystems Department - Faculty of Applied Bioscience Engineering
 * Celestijnenlaan 200Eb, box 2411, 3001 Leuven, Belgium
 * Office: 01.234 
-* +32 1637 3871
-
 * [diego.gradosbedoya@kuleuven.be](mailto:diego.gradosbedoya@kuleuven.be)
 * [dgrados@lamolina.edu.pe](mailto:dgrados@lamolina.edu.pe)
 
