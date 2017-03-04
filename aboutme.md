@@ -5,7 +5,7 @@ layout: page
 ##  PhD. Student
 
 ### Contact
-* Division of Mechatronics, Biostatistics and Sensors (MeBioS)
+* Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
 * Biosystems Department - Faculty of Applied Bioscience Engineering
 * Celestijnenlaan 200Eb, box 2411, 3001 Leuven, Belgium
 * Office: 01.234 
@@ -15,5 +15,3 @@ layout: page
 ### Education
 * Ph.D (2016-Present), Applied Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
 * B.Sc (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
-
-
