@@ -39,12 +39,6 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 
-bigimg:
-  -"img/pic1.jpg":""
-  -"img/pic2.jpg":""
-  -"img/pic3.jpg":""
-  -"img/pic4.jpg":""
-
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -199,4 +193,4 @@ prose:
           #help: "Check to publish post, uncheck to hide."
 
 # gems:
-  # - jekyll-paginate
+  - jekyll-paginate
