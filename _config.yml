@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/img/pic_avatar.jpg"
+ avatar: "/img/pic_avatar.JPG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -81,10 +81,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-gtm: "UA-92968660-1"
+google_analytics: "UA-92968660-1"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -139,19 +136,19 @@ exclude:
   - Vagrantfile
 
 # prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
+#prose:
+  #rooturl: '_posts'
+  #media: 'img'
+  #ignore:
+    #- 404.html
+    #- LICENSE
+    #- feed.xml
     # - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
+    #- /_layouts
+    #- /_includes
+    #- /css
+    #- /img
+    #- /js
   #metadata:
     #_posts:
       #- name: "layout"
