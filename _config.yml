@@ -40,10 +40,10 @@ navbar-links:
 # title-img: /path/to/image
 
 bigimg:
-	-"img/pic1.JPG":""
-	-"img/pic2.JPG":""
-	-"img/pic3.JPG":""
-    -"img/pic4.JPG":""
+  -"img/pic1.JPG":""
+  -"img/pic2.JPG":""
+  -"img/pic3.JPG":""
+  -"img/pic4.JPG":""
 
 # --- Footer options --- #
 
