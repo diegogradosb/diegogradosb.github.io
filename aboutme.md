@@ -7,7 +7,7 @@ layout: page
 
 ### Contact
 * Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
-* Biosystems Department - Faculty of Applied Bioscience Engineering, [FBSE](https://www.biw.kuleuven.be/english)
+* Biosystems Department - Faculty of Bioscience Engineering, [FBSE](https://www.biw.kuleuven.be/english)
 * Celestijnenlaan 200Eb, box 2411, 3001 Leuven, Belgium
 * Office: 01.234 
 * [diego.gradosbedoya@kuleuven.be](mailto:diego.gradosbedoya@kuleuven.be)
