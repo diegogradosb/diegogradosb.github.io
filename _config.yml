@@ -16,10 +16,10 @@ baseurl: ""
 # Name of website
 title: Diego Grados Bedoya
 
-subtitle: PhD. Student - R Enthusiast.
+subtitle: PhD. Student / R Enthusiast.
 
 # Short description of your site
-description: PhD. Student - R Enthusiast.
+description: PhD. Student / R Enthusiast.
 
 # --- Navigation bar options --- #
 
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+ avatar: "/img/pic_avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -135,16 +135,16 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-# link-tags: false
+link-tags: false
 
 # Exclude these files from production site
 exclude:
-  # - Gemfile
-  # - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
-  # - Vagrantfile
+  - Vagrantfile
 
 # prose.io config
 prose:
@@ -200,6 +200,3 @@ prose:
 
 # gems:
   # - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
