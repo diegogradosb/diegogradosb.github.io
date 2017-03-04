@@ -17,18 +17,18 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #ffffff;
+  color: #70918f;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #ffffff;
+  color: #70918f;
 }
 a:hover,
 a:focus {
-  color: #ffffff;
+  color: #70918f;
 }
 blockquote {
   color: #808080;
@@ -41,7 +41,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: #ffffff;
+  border-color: #3c5b59;
   border-radius: 3px;
 }
 
@@ -116,14 +116,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #ffffff;
+  color: #b1c8c6;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ffffff;
+  color: #70918f;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -262,7 +262,7 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #000000;
+  background: #eaf1f0;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
@@ -272,7 +272,7 @@ footer {
 }
 
 footer a {
-  color: #ffffff
+  color: #b1c8c6
 }
 
 footer .list-inline {
@@ -281,7 +281,7 @@ footer .list-inline {
 }
 
 footer a:focus {
-  color: #ffffff; 
+  color: #70918f; 
 }
 
 footer .copyright {
@@ -333,7 +333,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #3c5b59;
 }
 
 .post-preview .post-title {
@@ -600,8 +600,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #ffffff;
-  border: 1px solid #ffffff;
+  background: #3c5b59;
+  border: 1px solid #3c5b59;
 }
 
 .pager {
