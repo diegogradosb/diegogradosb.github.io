@@ -3,9 +3,11 @@ layout: page
 title: Search
 ---
 
+<div id="google-custom-search">
+
 <script>
   (function() {
-    var cx = '005036231896853323962:4xmqe7fiq7q';
+    var cx = '016229595236887071571:jgjnnwwjbxu';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -15,3 +17,5 @@ title: Search
   })();
 </script>
 <gcse:search></gcse:search>
+
+</div>
