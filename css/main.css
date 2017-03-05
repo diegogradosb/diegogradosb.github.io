@@ -8,8 +8,8 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  background-image: url("/img/bg/noise.png");
-  background-attachment: fixed;
+  background-image: url("/img/background/background.png");
+  background-attachment: fixed;  
 }
 p {
   line-height: 1.5;
@@ -17,18 +17,18 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #8E438E;
+  color: #70918f;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #8E438E;
+  color: #70918f;
 }
 a:hover,
 a:focus {
-  color: #8E438E;
+  color: #70918f;
 }
 blockquote {
   color: #808080;
@@ -41,7 +41,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: #660066;
+  border-color: #3c5b59;
   border-radius: 3px;
 }
 
@@ -101,10 +101,10 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #F5F5F5; 
   border-bottom: 1px solid #404040;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-image: url("/img/bg/stardust.png");
+  background-image: url("/img/background/background.png");
 }
 
 .navbar-custom .nav li a {
@@ -116,14 +116,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #B27FB2;
+  color: #b1c8c6;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #8E438E;
+  color: #70918f;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -262,16 +262,17 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  background: #eaf1f0;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
-  background-image: url("/img/bg/stardust.png");
+  background-image: url("/img/background/background.png");
   color: #ffffff;
+  
 }
 
 footer a {
-  color: #B27FB2;
+  color: #b1c8c6
 }
 
 footer .list-inline {
@@ -280,7 +281,7 @@ footer .list-inline {
 }
 
 footer a:focus {
-  color: #8E438E; 
+  color: #70918f; 
 }
 
 footer .copyright {
@@ -332,7 +333,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #660066;
+  color: #3c5b59;
 }
 
 .post-preview .post-title {
@@ -346,7 +347,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #660066;
+  color: #808080;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -599,8 +600,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #660066;
-  border: 1px solid #660066;
+  background: #3c5b59;
+  border: 1px solid #3c5b59;
 }
 
 .pager {
