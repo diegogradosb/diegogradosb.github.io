@@ -14,5 +14,5 @@ title: About
 * [diego.gradosbedoya@kuleuven.be](mailto:diego.gradosbedoya@kuleuven.be)
 
 ### Education
-* Ph.D (2016-Present), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
-* B.Sc (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
+* Ph.D. (2016-Present), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
+* B.Sc. (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
