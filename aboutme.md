@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About
+subtitle: Ph.D. Student / R Enthusiast
 ---
 
 ##  Ph.D. Student
