@@ -25,6 +25,9 @@ description: Ph.D. Student / R Enthusiast
 navbar-links:
 #  Blog: ""
   About Me: "about"
+  Personal: "personal"
+  Research: "research"
+# Teaching: "teaching"  
 #  Archive:
 #      - Tag cloud: "tags"
 #      - Table of content: "toc"
