@@ -23,8 +23,8 @@ description: Ph.D. Student / R Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  Personal: ""
-  Research: ""
+  Personal: "personal"
+  Research: "research"
   Blog: "blog"
   About/Contact: "about"
   Home: ""
