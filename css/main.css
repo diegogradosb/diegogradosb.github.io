@@ -8,8 +8,6 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  /*background-image: url("/img/background/body.png");*/
-  /*background-attachment: fixed;*/
 }
 p {
   line-height: 1.5;
