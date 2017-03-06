@@ -23,13 +23,17 @@ description: Ph.D. Student / R Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
-  About Me: "about"
-  Archive:
-      - Tag cloud: "tags"
-      - Table of content: "toc"
-  Website: "http://melyanna.net/"
-  Subscribe: "subscribe"
+  Personal: ""
+  Research: ""
+  Blog: "blog"
+  About/Contact: "about"
+  Home: ""
+  #Teaching: ""
+  #Archive:
+  #    - Tag cloud: "tags"
+  #    - Table of content: "toc"
+  #Website: "http://"
+  #Subscribe: "subscribe"
   ?: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
