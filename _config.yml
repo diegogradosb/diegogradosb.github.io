@@ -27,14 +27,14 @@ navbar-links:
   Research: "research"
   Blog: "blog"
   <i class="fa fa-graduation-cap" aria-hidden="true"></i> About/Contact: "about"
-  Home: ""
+  <i class="fa fa-home" aria-hidden="true"></i> Home: ""
   #Teaching: ""
   #Archive:
   #    - Tag cloud: "tags"
   #    - Table of content: "toc"
   #Website: "http://"
   #Subscribe: "subscribe"
-  ?: "search"
+  <i class="fa fa-search" aria-hidden="true"></i> : "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
