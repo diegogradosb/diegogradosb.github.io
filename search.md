@@ -5,7 +5,7 @@ title: Search
 
 <script>
   (function() {
-    var cx = '005036231896853323962:4xmqe7fiq7q';
+    var cx = '011922984877928086106:ormughs363w';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
