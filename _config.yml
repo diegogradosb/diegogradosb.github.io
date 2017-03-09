@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Diego Grados Bedoya
+title: Diego
 
 # Short description of your site
-description:
+description: Ph.D. Student / R Enthusiast
 
 # --- Navigation bar options --- #
 
@@ -52,7 +52,7 @@ author:
   name: Diego Grados Bedoya
   email: "diego.gradosbedoya@kuleuven.be"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: diegogradosb.github.io    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -72,7 +72,7 @@ footer-links-active:
   email: true
   twitter: false
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: false
   xing: false
