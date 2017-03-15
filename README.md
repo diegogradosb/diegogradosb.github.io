@@ -6,7 +6,6 @@ The template is based on [Beautiful Jekyll](http://deanattali.com/beautiful-jeky
 I have left below the original instructions and notes for this theme.
 
 ___
-=======
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
