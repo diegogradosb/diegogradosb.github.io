@@ -125,7 +125,7 @@ img {
 .navbar-custom .nav li a:focus {
   color: #70918f;
 }
-
+/*
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
@@ -144,7 +144,7 @@ img {
 .navbar-custom.top-nav-short .navbar-brand-logo img {
   height: 40px;
 }
-
+*/
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
@@ -164,7 +164,7 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 50%;
+  left: 55px;
   width: 50px;
   margin-top: -25px;
 }
