@@ -4,7 +4,7 @@ title: About
 ---
 
 ##  Ph.D. Student
-* Leuven Arenberg Doctoral School, [Leuven Arenberg Doctoral School](https://set.kuleuven.be/phd) 
+* Arenberg Doctoral School, [ADS](https://set.kuleuven.be/phd) 
 
 ### Contact
 * [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
