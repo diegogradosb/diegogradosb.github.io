@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 subtitle: ""
 ---
 <form class="form-horizontal" role="form" action="https://getsimpleform.com/messages?form_api_token=480102d684c0f23b9b1d57a126006e8e" method="post">
-  <input type='hidden' name='redirect_to' value='http://uh-bioinformatics.github.io/contact/thankyou' />
+  <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io' />
   <div class="form-group">
     <label for="name" class="col-sm-2 control-label">Name</label>
     <div class="col-sm-10">
@@ -18,9 +18,9 @@ subtitle: ""
     </div>
   </div>
     <div class="form-group">
-    <label for="department" class="col-sm-2 control-label">department</label>
+    <label for="department" class="col-sm-2 control-label">Subject</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="department" name="department" value="">
+      <input type="text" class="form-control" id="subject" name="subject" value="">
     </div>
   </div>
   <div class="form-group">
