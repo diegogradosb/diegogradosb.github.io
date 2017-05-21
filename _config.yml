@@ -34,6 +34,7 @@ navbar-links:
   #    - Table of content: "toc"
   #<i class="fa fa-globe" aria-hidden="true"></i> Website: "http://"
   #<i class="fa fa-paperclip" aria-hidden="true"></i> Subscribe: "subscribe"
+  Contact: "contact"
   <i class="fa fa-search" aria-hidden="true"></i> : "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
