@@ -14,7 +14,6 @@ title: Contact
     <label for="email" class="col-sm-2 control-label">Email:</label>
     <div class="col-sm-10">
       <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
-       <label class="error">Please enter a valid email address (validation example)</label>
     </div>
   </div>
     <div class="form-group">
