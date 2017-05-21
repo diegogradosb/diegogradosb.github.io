@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-subtitle: ""
 ---
 <form class="form-horizontal" role="form" action="https://getsimpleform.com/messages?form_api_token=c29b7a30a93b3b46a44871e548bcea3e" method="post">
   <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io' />
