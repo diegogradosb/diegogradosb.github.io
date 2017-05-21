@@ -30,7 +30,7 @@ title: Contact
   </div>
   <div class="form-group">
     <div class="col-sm-10 col-sm-offset-2">
-      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm">
     </div>
   </div>
 </form>
