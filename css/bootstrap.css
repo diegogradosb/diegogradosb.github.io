@@ -6564,11 +6564,22 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active {
-  color: #ffffff;
-  background-color: #70918f;
-  border-color: #3c5b59;
+.btn-primary {
+	background-color:#70918f;
+	border:1px solid #3c5b59;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.btn-primary:hover {
+	background-color:#70918f;
+}
+.btn-primary:active {
+	position:relative;
+	top:1px;
 }
