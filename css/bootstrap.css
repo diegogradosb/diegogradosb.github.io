@@ -6564,3 +6564,11 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #ffffff;
+  background-color: #70918f;
+  border-color: #3c5b59;
+}
