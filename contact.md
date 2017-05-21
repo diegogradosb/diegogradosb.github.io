@@ -34,9 +34,4 @@ subtitle: ""
       <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
     </div>
   </div>
-  <div class="form-group">
-    <div class="col-sm-10 col-sm-offset-2">
-      <! Will be used to display an alert to the user>
-    </div>
-  </div>
 </form>
