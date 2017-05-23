@@ -86,6 +86,7 @@ footer-links-active:
   spotify: false
   telephone: false
   calendly: true
+  researchgate: false
 
 # Select which share links to show in posts
 share-links-active:
