@@ -4,6 +4,15 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
 		
+	{% if site.author.researchgate and site.footer-links-active.researchgate %}
+            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" target="_blank"  title="ResearchGate" style="text-decoration: none !important;">
+             <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="ai ai-researchgate-square fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+	{% endif %}	
+			
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
@@ -26,8 +35,7 @@
             </a>
           </li>
 	{% endif %}
-		
-		
+				
           {% if site.author.github and site.footer-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
