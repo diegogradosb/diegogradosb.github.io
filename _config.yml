@@ -66,6 +66,7 @@ author:
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
   calendly: "diegogradosb/meeting"
+  researchgate: diegogradosb
 
 # Select which links to show in the footer
 footer-links-active:
