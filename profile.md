@@ -5,8 +5,6 @@ title: Profile
 
 ##  Ph.D. Student
 * Arenberg Doctoral School, [ADS](https://set.kuleuven.be/phd) 
-
-### Contact
 * [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
 * Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
 * Biosystems Department - Faculty of Bioscience Engineering, [FBSE](https://www.biw.kuleuven.be/english)
