@@ -23,19 +23,19 @@ description: Ph.D. Student / R Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  <i class="fa fa-area-chart" aria-hidden="true" fa-lg></i> Research: "research"
-  <i class="fa fa-paper-plane" aria-hidden="true" fa-lg></i> Personal: "personal"
-  #<i class="fa fa-coffee" aria-hidden="true" fa-lg></i> Blog: "blog"
-  <i class="fa fa-id-badge" aria-hidden="true" fa-lg></i> Profile: "profile"
-  #<i class="fa fa-university" aria-hidden="true" fa-lg></i> Teaching: ""
-  #<i class="fa fa-archive" aria-hidden="true" fa-lg></i> Archive:
+  <i class="fa fa-area-chart" aria-hidden="true" fa-2x></i> Research: "research"
+  <i class="fa fa-paper-plane" aria-hidden="true" fa-2x></i> Personal: "personal"
+  #<i class="fa fa-coffee" aria-hidden="true" fa-2x></i> Blog: "blog"
+  <i class="fa fa-id-card-o" aria-hidden="true" fa-2x></i> Profile: "profile"
+  #<i class="fa fa-university" aria-hidden="true" fa-2x></i> Teaching: ""
+  #<i class="fa fa-archive" aria-hidden="true" fa-2x></i> Archive:
   #    - Tag cloud: "tags"
   #    - Table of content: "toc"
-  #<i class="fa fa-globe" aria-hidden="true" fa-lg></i> Website: "http://"
-  #<i class="fa fa-paperclip" aria-hidden="true" fa-lg></i> Subscribe: "subscribe"
-  <i class="fa fa-question" aria-hidden="true" fa-lg></i> : "contact"
-  <i class="fa fa-search" aria-hidden="true" fa-lg></i> : "search"
-  <i class="fa fa-home" aria-hidden="true" fa-lg></i> : ""
+  #<i class="fa fa-globe" aria-hidden="true" fa-2x></i> Website: "http://"
+  #<i class="fa fa-paperclip" aria-hidden="true" fa-2x></i> Subscribe: "subscribe"
+  <i class="fa fa-question" aria-hidden="true" fa-2x></i> : "contact"
+  <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
+  <i class="fa fa-home" aria-hidden="true" fa-2x></i> : ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
