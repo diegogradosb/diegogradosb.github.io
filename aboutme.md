@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal
+title: About me
 ---
 
 > Happiness is nothing more than good health and a bad memory.
