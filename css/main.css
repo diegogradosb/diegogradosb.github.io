@@ -263,11 +263,11 @@ img {
 footer {
   padding: 30px 0;
   background: #eaf1f0;
-  border-top: 1px #b1c8c6 solid;
+  border-top: 1px solid #b1c8c6;
   margin-top: 0px;
   font-size: 14px;
   background-image: url("/img/background/background.png");
-  color: #ffffff;
+  color: #b1c8c6;
 }
 
 footer a {
