@@ -34,7 +34,7 @@ title: Contact
  <input type="text" name="_gotcha" style="display:none">
 
 
-<input type="hidden" name="_next" value="./contact?message=Your message has been sent successfully! I will contact you as soon as possible! Thanks!" />
+<input type="hidden" name="_next" value="https://diegogradosb.github.io/thanks/" />
 
   <div class="form-group">
     <div class="col-sm-10 col-sm-offset-2">
