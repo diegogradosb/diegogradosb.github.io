@@ -25,7 +25,7 @@ description: Ph.D. Student / R Enthusiast
 navbar-links:
   <i class="fa fa-area-chart" aria-hidden="true" fa-2x></i> Research: "research"
   <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
-  <i class="fa fa-paper-plane" aria-hidden="true" fa-2x></i> About me: "aboutme"
+  <i class="fa fa-leaf" aria-hidden="true" fa-2x></i> About me: "aboutme"
   #<i class="fa fa-coffee" aria-hidden="true" fa-2x></i> Blog: "blog"
   #<i class="fa fa-university" aria-hidden="true" fa-2x></i> Teaching: ""
   #<i class="fa fa-archive" aria-hidden="true" fa-2x></i> Archive:
