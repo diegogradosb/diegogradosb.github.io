@@ -171,6 +171,7 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
+    - appveyor.yml
     - /_layouts
     - /_includes
     - /css
