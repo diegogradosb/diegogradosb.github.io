@@ -215,17 +215,7 @@
           </li>
           {% endif %}
         </ul>
-        <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
-
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
-  	</ul>
-        <p class="copyright text-muted" data-toggle="tooltip" title="Build [[BUILD_NUMBER]]">
+	<p class="copyright text-muted" data-toggle="tooltip" title="Build [[BUILD_NUMBER]]">
       &copy;&nbsp;{{ site.author.name }}
       &nbsp;&bull;&nbsp;
       {{ site.time | date: '%Y' }}
