@@ -23,8 +23,8 @@ Function Invoke-GitConfig () {
     [CmdletBinding()]
     Param()
     Write-Verbose 'Setting up git...'
-    git config --local user.name "OCram85"
-    git config --local user.email "marco.blessing@googlemail.com"
+    git config --local user.name "diegogradosb"
+    git config --local user.email "diegogradosb@gmail.com"
     git config --global credential.helper store
     git config --global core.autocrlf false
     Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
