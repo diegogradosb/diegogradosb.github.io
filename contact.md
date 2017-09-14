@@ -3,7 +3,11 @@ layout: page
 title: Contact
 ---
 <form class="form-horizontal" role="form" action="https://getsimpleform.com/messages?form_api_token=c29b7a30a93b3b46a44871e548bcea3e" method="post">
+<<<<<<< HEAD
   <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io/thanks/' />
+=======
+  <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io/thanks.html' />
+>>>>>>> master
   <div class="form-group">
     <label for="name" class="col-sm-2 control-label">Name:</label>
     <div class="col-sm-10">

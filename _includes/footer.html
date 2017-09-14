@@ -215,21 +215,26 @@
           </li>
           {% endif %}
         </ul>
-        <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
+	<p class="copyright text-muted" data-toggle="tooltip" title="Build [[BUILD_NUMBER]]">
+      &copy;&nbsp;{{ site.author.name }}
+      &nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
 
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
-	    </p>
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}
+	</p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
 		<p class="theme-by text-muted">
 		  Theme by
 		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p>
+	</p>
+    <p>
+    <a href="https://ci.appveyor.com/project/diegogradosb/diegogradosb-github-io">
+      <img src="https://ci.appveyor.com/api/projects/status/ijefqc1m02kkekyh?svg=true" class="img-responsive center-block" data-toggle="tooltip" title="Build [[BUILD_NUMBER]]">
+	</a>
+	</p>
       </div>
     </div>
   </div>
