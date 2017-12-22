@@ -3,9 +3,6 @@ layout: page
 title: Profile
 ---
 
-> Hay hombres que luchan un día y son buenos. Hay otros que luchan un año y son mejores. Hay quienes luchan muchos años, y son muy buenos. Pero hay los que luchan toda la vida, esos son los imprescindibles.
-> <div style="text-align: right"> Bertolt Brecht </div>
-
 ##  Ph.D. Student
 * Arenberg Doctoral School, [ADS](https://set.kuleuven.be/phd) 
 * [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
