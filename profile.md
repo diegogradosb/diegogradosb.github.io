@@ -3,6 +3,9 @@ layout: page
 title: Profile
 ---
 
+> Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.
+> <div style="text-align: right"> Richard Feynman </div>
+
 ##  Ph.D. Student
 * Arenberg Doctoral School, [ADS](https://set.kuleuven.be/phd) 
 * [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
