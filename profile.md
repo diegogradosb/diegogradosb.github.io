@@ -6,8 +6,7 @@ title: Profile
 > Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.
 > <div style="text-align: right"> Richard Feynman </div>
 
-##  PhD Student
-* Arenberg Doctoral School, [ADS](https://set.kuleuven.be/phd) 
+##  Researcher
 * [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
 * Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
 * Biosystems Department - Faculty of Bioscience Engineering, [FBSE](https://www.biw.kuleuven.be/english)
@@ -16,5 +15,5 @@ title: Profile
 * [diego.gradosbedoya@kuleuven.be](mailto:diego.gradosbedoya@kuleuven.be)
 
 ### Education
-* PhD (2016-Ongoing), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
+* PhD (2016-2019), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
 * BSc (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
