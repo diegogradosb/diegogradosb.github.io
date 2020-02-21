@@ -7,7 +7,6 @@ title: Profile
 > <div style="text-align: right"> Richard Feynman </div>
 
 ##  Researcher
-* [Research Unit for Data Quality Management](http://www.biw.kuleuven.be/dtp/TQM/tqm.htm) 
 * Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
 * Biosystems Department - Faculty of Bioscience Engineering, [FBSE](https://www.biw.kuleuven.be/english)
 * [Celestijnenlaan 200Eb, box 2411, 3001 Leuven, Belgium](https://www.kuleuven.be/maps/kaart?lat=50.863703799999996&lng=4.6757264&zoom=18&layer=mpq&labels=undefined&building=493-12)
