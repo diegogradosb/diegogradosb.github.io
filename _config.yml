@@ -17,7 +17,7 @@ baseurl: ""
 #title: Diego
 
 # Short description of your site
-description: Ph.D. Student / R Enthusiast
+description: Researcher / R Enthusiast
 
 # --- Navigation bar options --- #
 
@@ -48,13 +48,13 @@ avatar: "/img/avatar/pic_avatar.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Diego Grados Bedoya
-  email: "diego.gradosbedoya@kuleuven.be"
+  email: "diegogradosb@gmail.com"
   facebook: yourname  # eg. daattali
   github: diegogradosb    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  linkedin: https://www.linkedin.com/in/diegogradosb/  # eg. "pub/dean-attali/8/946/143"
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
