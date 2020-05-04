@@ -51,7 +51,7 @@ author:
   email: "diegogradosb@gmail.com"
   facebook: yourname  # eg. daattali
   github: diegogradosb    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: diegogradosb   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: https://www.linkedin.com/in/diegogradosb/  # eg. "pub/dean-attali/8/946/143"
@@ -74,7 +74,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   instagram: false
