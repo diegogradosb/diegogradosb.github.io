@@ -33,6 +33,7 @@ navbar-links:
   #    - Table of content: "toc"
   #<i class="fa fa-globe" aria-hidden="true" fa-2x></i> Website: "http://"
   #<i class="fa fa-paperclip" aria-hidden="true" fa-2x></i> Subscribe: "subscribe"
+  <i class="fa fa-files-o" aria-hidden="true" fa-2x></i> Publications: "publications"
   <i class="fa fa-file-text" aria-hidden="true"></i> Resume: "resume/resume.pdf"  
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
