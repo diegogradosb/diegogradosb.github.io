@@ -37,8 +37,8 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of defici
 
 **Grados, D.**, Gil, R., Raymaekers, D., Schrevens, E., 2017. *Developing of an automated UAV-based RGB imagery workflow analysis for land use evaluation*. European Federation for Information Technology in Agriculture, Food and the Environment. Montpellier, France, 02-06 Jul. ISBN: 978-2-85362-686-6.
 
-**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: A first approach towards land use classification*. National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb.
+**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: a first approach towards land use classification*. National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb.
 
-**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: Clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun.
+**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun.
 
 **Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
