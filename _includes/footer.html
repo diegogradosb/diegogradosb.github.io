@@ -20,9 +20,20 @@
                 <i class="ai ai-google-scholar-square fa-stack-1x fa-inverse"></i>
               </span>
             </a>
-	{% endif %}	
+	
+		{% endif %}	
 		
-		
+{%- if site.social-network-links.ORCID -%}
+ <li class="list-inline-item">
+   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+     </span>
+     <span class="sr-only">ORCID</span>
+  </a>
+ </li>
+{%- endif -%}
 		
 		
           {% if site.author.facebook and site.footer-links-active.facebook %}
