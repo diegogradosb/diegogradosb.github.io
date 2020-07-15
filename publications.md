@@ -31,14 +31,14 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
-**Grados, D.**, Schrevens, E., Heuts, R., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. VII South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
+**Grados, D.**, Schrevens, E., Heuts, R., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
-Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. VII South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
+Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
 **Grados, D.**, Gil, R., Raymaekers, D., Schrevens, E., 2017. *Developing of an automated UAV-based RGB imagery workflow analysis for land use evaluation*. European Federation for Information Technology in Agriculture, Food and the Environment. Montpellier, France, 02-06 Jul. ISBN: 978-2-85362-686-6.
 
-**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: A first approach towards land use classification*. XXI National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb.
+**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: A first approach towards land use classification*. National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb.
 
 **Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: Clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun.
 
-**Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. XX Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
+**Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
