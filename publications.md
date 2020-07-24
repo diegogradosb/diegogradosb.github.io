@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-> I am enough of the artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.
-> <div style="text-align: right"> Albert Einstein </div>
+> To see we must forget the name of the thing we are looking at.
+> <div style="text-align: right"> Claude Monet </div>
 
 ## Journal Articles
 
