@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Articles
 
-**Grados, D.**, Schrevens, E., 2020. *Cassava NDVI analysis: a nonlinear mixed model approach based on UAV-imagery*. Journal of Photogrammetry, Remote Sensing and Geoinformation Science. [In Press].
+**Grados, D.**, Schrevens, E., 2020. *Cassava NDVI analysis: a nonlinear mixed model approach based on UAV-imagery*. PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science. [http://dx.doi.org/10.1007/s41064-020-00116-x](http://dx.doi.org/10.1007/s41064-020-00116-x).
 
 **Grados, D.**, Reynarfaje, X., Schrevens, E., 2020. *A methodological approach to assess canopy NDVI–based tomato dynamics under irrigation treatments*. Agricultural Water Management, 240, 106208. [http://dx.doi.org/10.1016/j.agwat.2020.106208](http://dx.doi.org/10.1016/j.agwat.2020.106208).
 
