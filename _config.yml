@@ -1,5 +1,23 @@
 # --- Required options --- #
 
+# FONTS FOR EACH SECTION
+
+# NAV BAR
+##  'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
+
+# SECTIONS
+##  Titles: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
+##  Info Text: 'Lora', 'Times New Roman', serif
+##  Quotes: italic
+
+# LINKS:
+##  'Lora', 'Times New Roman', serif
+
+
+
+
+
+
 # Name of website
 title: Diego Grados Bedoya
 
@@ -9,13 +27,14 @@ author: Diego Grados Bedoya
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  <i class="fa fa-area-chart" aria-hidden="true" fa-2x></i> Research: "research"
+  <i class="fas fa-chart-area"></i> Research: "research"
   <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
   <i class="fa fa-leaf" aria-hidden="true" fa-2x></i> About me: "aboutme"
   <i class="far fa-copy"></i> Publications: "publications"
+  <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
-  <i class="fa fa-file-text" aria-hidden="true"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
+  <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
 
 # --- Logo --- #
 
@@ -115,13 +134,13 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#212121"
 navbar-text-col: "#b1c8c6"
-navbar-border-col: "#212121"
-page-col: "#212121"
+navbar-border-col: "#b1c8c6"
+page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#879997"
+hover-col: "#596665"
 footer-col: "#212121"
 footer-text-col: "#b1c8c6"
 footer-link-col: "#b1c8c6"
@@ -245,4 +264,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

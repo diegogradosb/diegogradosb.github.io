@@ -128,8 +128,9 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
+  background-color: {{ site.navbar-col | default: "#FFFFFF"}};
   border-bottom: 3px solid #b1c8c6;
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  border-bottom: 3px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -227,8 +228,8 @@ img {
 
 @media (min-width: 768px) {
   .navbar-custom {
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    /* padding-top: 1.25rem;
+    padding-bottom: 1.25rem; */
   }
 
   .navbar-custom .navbar-brand-logo {
@@ -376,7 +377,8 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
+  margin-top: 7vh;
+  padding: 5rem 0;
   border-top: 3px solid #b1c8c6;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
@@ -396,9 +398,9 @@ footer a {
 }
 
 footer .list-inline {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 1.875rem;
+  margin: 10px;
+  padding: 20px;
+  margin-bottom: 10px;
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -408,17 +410,17 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  /* margin: 0.625rem 0 0; */
+  margin: 20px 0 0;
 }
 footer .footer-custom-content {
   text-align: center;
-  margin-bottom: 0.9375rem;
+  /* margin-bottom: 0.9375rem; */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 5rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
@@ -601,6 +603,7 @@ footer .footer-custom-content {
   position: relative;
 }
 .intro-header.big-img {
+  margin-bottom: -7vh;
   background: no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -713,6 +716,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
   display: none;
+}
+@media only screen and (max-width: 767px) {
+  .header-section {
+    margin-top: 130px;
+  }
 }
 @media (max-width: 365px) {
   .header-section.has-img .intro-header.no-img {
@@ -991,4 +999,27 @@ pre {
 
 .avatar-container {
   left: 60px;
+}
+
+#avatar-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.btn-primary {
+  background-color: #536967;
+  border-color: black;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #7d9694 !important;
+  border-color: black;
+}
+
+#___gcse_0 {
+  margin-bottom: 25vh;
+}
+
+.small {
+  color: #b1c8c6;
 }
