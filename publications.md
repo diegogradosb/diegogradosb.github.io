@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
->  
+> <br/>
 > To see we must forget the name of the thing we are looking at.
 > <div style="text-align: right"> Claude Monet </div>
 
