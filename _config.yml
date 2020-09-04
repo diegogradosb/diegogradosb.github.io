@@ -29,7 +29,7 @@ author: Diego Grados Bedoya
 navbar-links:
   <i class="fas fa-chart-area"></i> Research: "research"
   <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
-  <i class="fa fa-leaf" aria-hidden="true" fa-2x></i> About me: "aboutme"
+  <i class="fas fa-seedling" aria-hidden="true" fa-2x></i> About me: "aboutme"
   <i class="far fa-copy"></i> Publications: "publications"
   <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
