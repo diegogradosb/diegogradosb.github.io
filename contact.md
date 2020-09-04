@@ -12,7 +12,8 @@ title: Contact
   <input type="email" name="Email:" value="example@domain.com" />
   <input type="subject" name="Subject:" value=" " />
   <input type="message" name="Message:" value=" " />
-
+  <textarea name="body">Email body</textarea>
+  
   <!-- This button will have a loading spinner. Keep the inner span for best results. -->
   <button type="submit" class="pageclip-form__submit">
     <span>Send</span>
