@@ -1005,8 +1005,8 @@ pre {
 }
 
 #avatar-img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
@@ -1020,7 +1020,7 @@ pre {
 }
 
 #___gcse_0 {
-  margin-bottom: 15vh;
+  margin-bottom: 10vh;
 }
 
 .small {
