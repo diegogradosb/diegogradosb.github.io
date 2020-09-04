@@ -98,6 +98,8 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
+  calendly: true
+  orcid: true
   twitter: false
   google-plus: false
   github: true
@@ -110,9 +112,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  calendly: true
   researchgate: false
-  orcid: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
