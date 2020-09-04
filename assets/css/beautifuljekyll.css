@@ -272,7 +272,7 @@ img {
 }
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   white-space: normal;
-  padding: 0.625rem;
+  padding: 0.325rem;
   background-color: {{ site.navbar-col | default: "#eaf1f0" }};
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
@@ -285,7 +285,7 @@ img {
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-    padding-left: 0.625rem;
+    padding-left: 0.325rem;
     border: 1px solid {{ site.navbar-border-col | default: "#eaf1f0" }};
     border-width: 0 1px 1px;
   }
