@@ -383,7 +383,7 @@ footer {
   border-top: 3px solid #b1c8c6;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
-  background-color: {{ site.footer-col | default: "#b1c8c6" }};
+  background-color: {{ site.footer-col | default: "#ffffff" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
@@ -395,7 +395,7 @@ footer p.text-muted {
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#70918f" }};
+  color: {{ site.footer-link-col | default: "#b1c8c6" }};
 }
 
 footer .list-inline {
