@@ -292,7 +292,7 @@ img {
 
 @media (max-width: 767px) {
   .navbar-custom .navbar-collapse {
-    border-top: 1px solid {{ site.navbar-border-col | default: "#eaf1f0" }};
+    border-top: 1px solid {{ site.navbar-border-col | default: "#70918f" }};
     margin: 0 -1rem;
   }
 
