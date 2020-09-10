@@ -128,7 +128,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Researcher,Agriculture-Climate-Sustainability,PhD in Bioscience Engineering,Data Scientist,R Enthusiast"
 
 # --- Colours / background image --- #
 
@@ -139,10 +139,10 @@ navbar-text-col: "#b1c8c6"
 navbar-border-col: "#b1c8c6"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#879997"
+link-col: "#b1c8c6"
 hover-col: "#596665"
 footer-col: "#212121"
-footer-text-col: "#b1c8c6"
+footer-text-col: "#ffffff"
 footer-link-col: "#b1c8c6"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
