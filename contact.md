@@ -12,25 +12,25 @@ title: Contact
   <div class="form-group">
     <label for="name" class="col-sm-2 control-label">Name:</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+      <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" required />
     </div>
   </div>
   <div class="form-group">
     <label for="email" class="col-sm-2 control-label">Email:</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+      <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" required />
     </div>
   </div>
     <div class="form-group">
     <label for="department" class="col-sm-2 control-label">Subject:</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="subject" name="subject" value="">
+      <input type="text" class="form-control" id="subject" name="subject" value="" required />
     </div>
   </div>
   <div class="form-group">
     <label for="message" class="col-sm-2 control-label">Message:</label>
     <div class="col-sm-10">
-      <textarea class="form-control" rows="4" name="message"></textarea>
+      <textarea class="form-control" rows="4" name="message" required /></textarea>
     </div>
   </div>
   <div class="form-group">
