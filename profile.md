@@ -12,8 +12,8 @@ title: Profile
 + [Blichers Allé 20, Postboks 50, Building 8820, Office 2008, 8830 Tjele, Denmark](https://agro.au.dk/en/about-the-department/contact-agroecology/)
 
 ### Previous Affiliations
-+ Division of Mechatronics, Biostatistics and Sensors, [MeBioS](http://www.biw.kuleuven.be/biosyst/mebios)
-+ Biosystems Department - Faculty of Bioscience Engineering - KU Leuven, [FBSE](https://www.biw.kuleuven.be/english)
++ [Division of Mechatronics, Biostatistics and Sensors](http://www.biw.kuleuven.be/biosyst/mebios)
++ [Biosystems Department](https://www.biw.kuleuven.be/english) - Faculty of Bioscience Engineering - KU Leuven
 + [Celestijnenlaan 200Eb, 3001 Leuven, Belgium](https://www.kuleuven.be/maps/kaart?lat=50.863703799999996&lng=4.6757264&zoom=18&layer=mpq&labels=undefined&building=493-12)
 <br/><br/>
 + [Soil Sciences Department](http://www.lamolina.edu.pe/agronomia/portal/index.php/dpto-suelos/) - Faculty of Agronomy - UNALM
