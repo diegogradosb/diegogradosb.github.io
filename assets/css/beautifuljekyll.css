@@ -1045,11 +1045,11 @@ pre {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: 0 auto -142px;
+  margin: 0 auto -60px;
   /* the bottom margin is the negative value of the footer's height */
 }
 
 .push {
-  height: 142px;
+  height: 60px;
   /* .push must be the same height as .footer */
 }
