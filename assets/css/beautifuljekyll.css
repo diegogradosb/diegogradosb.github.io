@@ -16,7 +16,6 @@ body {
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   padding-bottom:60px;
-  height: 100%;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
@@ -1040,6 +1039,12 @@ pre {
   }
 }
 
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
 .wrapper {
     min-height: 100%;
     height: auto !important;
