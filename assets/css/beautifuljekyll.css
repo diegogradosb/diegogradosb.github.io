@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  height: 100%;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
@@ -1038,4 +1039,17 @@ pre {
   .nav-link {
     font-size: 10px;
   }
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -142px;
+  /* the bottom margin is the negative value of the footer's height */
+}
+
+.push {
+  height: 142px;
+  /* .push must be the same height as .footer */
 }
