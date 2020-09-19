@@ -11,7 +11,6 @@ html {
 }
 
 body {
-  height: 100%;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
@@ -384,7 +383,6 @@ footer {
   border-top: 3px solid #b1c8c6;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
-  height:60px;
   background-color: {{ site.footer-col | default: "#ffffff" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
@@ -1039,17 +1037,4 @@ pre {
   .nav-link {
     font-size: 10px;
   }
-}
-
-.wrapper {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: 0 auto -60px;
-  /* the bottom margin is the negative value of the footer's height */
-}
-
-.push {
-  height: 60px;
-  /* .push must be the same height as .footer */
 }
