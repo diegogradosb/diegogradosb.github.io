@@ -383,6 +383,9 @@ footer {
   border-top: 3px solid #b1c8c6;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
+  position:fixed;
+  bottom:0;
+  width:100%;
   background-color: {{ site.footer-col | default: "#ffffff" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
