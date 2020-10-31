@@ -21,7 +21,8 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
-
+  display: flex;
+  flex-direction: column;
 }
 p {
   line-height: 1.5;
@@ -44,7 +45,7 @@ h3 {
 h4 {
   font-size: 1.125rem;
 }
-	h1, h2, h3, h4 {
+h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
@@ -79,7 +80,9 @@ hr.small {
 
 .main-content {
   padding-top: 5rem;
+  flex: 1 0 auto;
 }
+
 @media (min-width: 768px) {
   .main-content {
     padding-top: 8.125rem;
@@ -391,6 +394,7 @@ footer {
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
   {% endif %}
+  flex-shrink: 0;
 }
 
 footer p.text-muted {
@@ -487,7 +491,7 @@ footer .footer-custom-content {
   margin: 0 0 0.625rem;
   font-family: 'Lora', 'Times New Roman', serif;
 }
-	.post-heading .post-meta {
+.post-heading .post-meta {
   display: inline-block;
 }
 @media (max-width: 767px) {
@@ -626,7 +630,7 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-	margin: 5rem 0 1.25rem;
+  margin: 5rem 0 1.25rem;
   position: relative;
 }
 .intro-header.big-img {
