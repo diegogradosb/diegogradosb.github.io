@@ -748,7 +748,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media only screen and (max-width: 767px) {
   .header-section {
-    margin-top: 20px;
+    margin-top: 40px;
   }
 }
 @media (max-width: 365px) {
