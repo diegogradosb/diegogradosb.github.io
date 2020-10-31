@@ -79,11 +79,11 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 0rem;
+  padding-top: 5rem;
 }
 @media (min-width: 768px) {
   .main-content {
-    padding-top: 8.125rem;
+    padding-top: 0rem;
   }
 }
 
