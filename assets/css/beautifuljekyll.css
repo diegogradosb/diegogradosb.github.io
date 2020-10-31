@@ -6,8 +6,9 @@ layout: null
 
 /* --- General --- */
 
-html {
-  font-size: 100%
+html, body {
+  font-size: 100%;
+  eight: 100%;
 }
 
 body {
@@ -1061,4 +1062,15 @@ pre {
   .nav-link {
     font-size: 10px;
   }
+}
+
+.content {
+  flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+}
+.footer {
+  flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+}
+
+* {
+  box-sizing: border-box;
 }
