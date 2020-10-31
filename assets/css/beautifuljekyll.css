@@ -401,6 +401,7 @@ footer {
     background-attachment: fixed;
   {% endif %}
   flex-shrink: 0;
+  padding: 20px;
 }
 
 footer p.text-muted {
