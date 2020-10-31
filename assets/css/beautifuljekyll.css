@@ -1072,11 +1072,11 @@ body {
 }
 .content {
   flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
-  padding: 40px;
+  padding: 100px;
 }
 .footer {
   flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
-  padding-bottom: 80px;
+  padding-bottom: 20px;
 }
 
 * {
