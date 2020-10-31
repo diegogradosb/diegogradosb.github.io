@@ -11,6 +11,8 @@ html, body {
   height: 100%;
 }
 
+
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
@@ -1074,4 +1076,18 @@ pre {
   .nav-link {
     font-size: 10px;
   }
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font: 16px Sans-Serif;
+}
+h1 {
+  margin: 0 0 20px 0;
+}
+p {
+  margin: 0 0 20px 0;
 }
