@@ -24,4 +24,4 @@ title: Profile
 
 ## Education
 * PhD (2016-2019), Bioscience Engineering, [KU Leuven](https://www.kuleuven.be/kuleuven/)
-* BSc (2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
+* BSc (2007-2011), Agricultural Engineering, [UNALM](http://www.lamolina.edu.pe/portada/)
