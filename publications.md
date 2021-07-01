@@ -30,6 +30,8 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
+**Grados, D.**, Olesen, J.E., Abalos, D., 2021. *Developing a data and modelling framework for assessing greenhouse gas mitigation strategies*. National Seminar on Technologies for a Danish Zero Greenhouse Gas Emission Agriculture. Middelfart, Denmark, 28 Jun 2021.
+
 **Grados, D.**, Schrevens, E., Heuts, R., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
 Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
