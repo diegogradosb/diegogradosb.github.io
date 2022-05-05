@@ -32,6 +32,8 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., van Groenigen, K.J., Olesen, J.E., van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May 2022.
+
 **Grados, D.**, Olesen, J.E., Abalos, D., 2021. *Developing a data and modelling framework for assessing greenhouse gas mitigation strategies*. National Seminar on Technologies for a Danish Zero Greenhouse Gas Emission Agriculture. Middelfart, Denmark, 28 Jun 2021.
 
 **Grados, D.**, Schrevens, E., Heuts, R., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
@@ -45,3 +47,7 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of defici
 **Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun.
 
 **Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
+
+## Invited Talk
+
+**Grados, D.**, Olesen, J.E., Abalos, D., 2022. *Tackling emissions of nitrous oxide from agroecosystems*. SustES Bořetice meeting. Bořetice, Czech Republic, 25-27 Apr 2022.
