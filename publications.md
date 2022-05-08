@@ -51,3 +51,5 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of defici
 ## Invited Talk
 
 **Grados, D.**, Olesen, J.E., Abalos, D., 2022. *Tackling emissions of nitrous oxide from agroecosystems*. SustES Bořetice meeting. Bořetice, Czech Republic, 25-27 Apr 2022.
+
+**Grados, D.**, 2021. *Multi‐target methodologies for agroecosystems research*. Postgradute School of Agrarian National University La Molina. Online, 16 Feb 2021.
