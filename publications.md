@@ -7,7 +7,7 @@ title: Publications
 
 ## Journal Articles
 
-**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K. J., Olesen, J., van Groenigen, J. W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K. J., Olesen, J., Van Groenigen, J. W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
 Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, Schrevens, E., 2021. *Linear mixed model analysis of NDVI-based canopy coverage, extracted from sequential UAV multispectral imagery of an open field tomato irrigation experiment*. Computers and Electronics in Agriculture. [http://dx.doi.org/10.1016/j.compag.2021.106399](http://dx.doi.org/10.1016/j.compag.2021.106399).
 
