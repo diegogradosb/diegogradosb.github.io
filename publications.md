@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-> To see we must forget the name of the thing we are looking at.
+> La couleur est mon obsession quotidienne, ma joie et man tourment.
 > <div style="text-align: right"> Claude Monet </div>
 
 ## Journal Articles
