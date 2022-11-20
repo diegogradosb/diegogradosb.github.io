@@ -58,4 +58,4 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of defici
 
 ## Outreach (invited talks)
 
-**Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella | Aarhus University, Denmark, 17 Nov 2022.
+**Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Aarhus University, Denmark, 17 Nov 2022.
