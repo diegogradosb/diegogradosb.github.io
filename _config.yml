@@ -27,8 +27,7 @@ author: Diego Grados
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  <i class="fas fa-chart-area"></i> Research: "research"
-  <i class="fa fa-chart-network"></i> Research: "research"
+  <i class="fas fa-chart-area"></i> Research: "research"
   <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
   <i class="fas fa-seedling" aria-hidden="true" fa-2x></i> About me: "aboutme"
   <i class="far fa-copy"></i> Publications: "publications"
@@ -36,7 +35,9 @@ navbar-links:
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
   <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
-
+  <i class="fa fa-github" aria-hidden="true"></i> : "https://github.com/diegogradosb"
+  <i class="fa fa-linkedin-square" aria-hidden="true"></i> : "https://www.linkedin.com/in/diegogradosb"
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
