@@ -34,10 +34,12 @@ navbar-links:
   <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
-  <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
   <i class="fa fa-github" aria-hidden="true"></i> : "https://github.com/diegogradosb"
   <i class="fa fa-linkedin-square" aria-hidden="true"></i> : "https://www.linkedin.com/in/diegogradosb"
-    
+  <i class="fa-brands fa-orcid"></i> : "https://orcid.org/0000-0001-5548-3204"
+  <i class="fa-brands fa-researchgate"></i> : "https://www.researchgate.net/profile/Diego-Grados"
+  <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
