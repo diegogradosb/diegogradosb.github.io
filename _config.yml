@@ -34,10 +34,10 @@ navbar-links:
   <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
-  <i class="fa fa-github" aria-hidden="true" fa-2x></i> : "https://github.com/diegogradosb"
-  <i class="fa fa-linkedin-square" aria-hidden="true" fa-2x></i> : "https://www.linkedin.com/in/diegogradosb"
-  <i class="fa-brands fa-orcid" fa-2x></i> : "https://orcid.org/0000-0001-5548-3204"
-  <i class="fa-brands fa-researchgate" fa-2x></i> : "https://www.researchgate.net/profile/Diego-Grados"
+#  <i class="fa fa-github" aria-hidden="true" fa-2x></i> : "https://github.com/diegogradosb"
+#  <i class="fa fa-linkedin-square" aria-hidden="true" fa-2x></i> : "https://www.linkedin.com/in/diegogradosb"
+#  <i class="fa-brands fa-orcid" fa-2x></i> : "https://orcid.org/0000-0001-5548-3204"
+#  <i class="fa-brands fa-researchgate" fa-2x></i> : "https://www.researchgate.net/profile/Diego-Grados"
   <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
   
 # --- Logo --- #
@@ -77,7 +77,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
   calendly: "diegogradosb"
-   researchgate: Diego-Grados
+#  researchgate: Diego-Grados
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-5548-3204
 #  google-scholar: your google scholar
@@ -116,7 +116,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  researchgate: true
+  researchgate: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
