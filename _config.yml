@@ -34,10 +34,10 @@ navbar-links:
   <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
-  <i class="fa fa-github" aria-hidden="true"></i> : "https://github.com/diegogradosb"
-  <i class="fa fa-linkedin-square" aria-hidden="true"></i> : "https://www.linkedin.com/in/diegogradosb"
-  <i class="fa-brands fa-orcid"></i> : "https://orcid.org/0000-0001-5548-3204"
-  <i class="fa-brands fa-researchgate"></i> : "https://www.researchgate.net/profile/Diego-Grados"
+  <i class="fa fa-github" aria-hidden="true" fa-2x></i> : "https://github.com/diegogradosb"
+  <i class="fa fa-linkedin-square" aria-hidden="true" fa-2x></i> : "https://www.linkedin.com/in/diegogradosb"
+  <i class="fa-brands fa-orcid" fa-2x></i> : "https://orcid.org/0000-0001-5548-3204"
+  <i class="fa-brands fa-researchgate" fa-2x></i> : "https://www.researchgate.net/profile/Diego-Grados"
   <i class="fas fa-home"></i> : "https://diegogradosb.github.io/"
   
 # --- Logo --- #
