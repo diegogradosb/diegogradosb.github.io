@@ -52,6 +52,8 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of defici
 
 **Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
 
+Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Optimal fertilization to improve potato production in the Peruvian Central Andes*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
+
 ## Invited Talks
 
 **Grados, D.**, Olesen, J.E., Abalos, D., 2022. *Tackling emissions of nitrous oxide from agroecosystems*. SustES Bořetice meeting. Bořetice, Czech Republic, 25-27 Apr 2022.
