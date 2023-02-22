@@ -7,6 +7,10 @@ title: Publications
 
 ## Journal Articles
 
+**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Effect of climate change adaptation strategies on greenhouse gas emissions and crop yield: A diversified rotation study case*. In preparation.
+
+**Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *A regional modeling study to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*. In preparation.
+
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. Under review. [Preprint](https://doi.org/10.2139/ssrn.4292665).
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
