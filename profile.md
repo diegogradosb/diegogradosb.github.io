@@ -15,7 +15,7 @@ title: Profile
 * [Biosystems Department](https://www.biw.kuleuven.be/english) - Faculty of Bioscience Engineering - KU Leuven
 * [Celestijnenlaan 200Eb, 3001 Leuven, Belgium](https://www.kuleuven.be/maps/kaart?lat=50.863703799999996&lng=4.6757264&zoom=18&layer=mpq&labels=undefined&building=493-12)
 <br/><br/>
-* [Soil Sciences Department](http://www.lamolina.edu.pe/agronomia/portal/index.php/dpto-suelos/) - Faculty of Agronomy - UNALM
+* [Soil Sciences Department](http://www.lamolina.edu.pe/agronomia/dsuelos/) - Faculty of Agronomy - UNALM
 * [Av. La Molina s/n - La Molina, 15026 Lima, Peru](https://web.lamolina.edu.pe/agronomia/web/contacto/)
 <br/><br/>
 * [Water Resources Department](http://www.lamolina.edu.pe/facultad/agricola/recursos.htm) - Faculty of Agricultural Engineering - UNALM
