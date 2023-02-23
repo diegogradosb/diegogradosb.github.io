@@ -19,7 +19,7 @@ Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *S
 
 Gutierrez, S., Møller, A.B, Gomes, L., Giannini-Kurina, F., Beucher, A., **Grados, D.**, de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon in Danish agroecosystems*.
 
-### Accepted
+### Published
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
