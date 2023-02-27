@@ -33,7 +33,7 @@ Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, Schrevens, E., 2021. *Linear 
 
 **Grados, D.**, Schrevens, E., 2019. *Multidimensional analysis of environmental impacts from potato agricultural production in the Peruvian Central Andes*. Science of The Total Environment, 663, 927–934. [http://dx.doi.org/10.1016/j.scitotenv.2019.01.414](http://dx.doi.org/10.1016/j.scitotenv.2019.01.414).
 
-## Conference Proceedings [peer-reviewed]
+## Conference Proceedings [Peer-Reviewed]
 
 **Grados, D.**, Heuts, R., García, S., Schrevens, E.,  2021. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [https://doi.org/10.17660%2Factahortic.2021.1326.33](https://doi.org/10.17660%2Factahortic.2021.1326.33).
 
