@@ -76,4 +76,4 @@ Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Opt
 
 ## Outreach (invited talks)
 
-**Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Aarhus University, Denmark, 17 Nov 2022.
+**Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
