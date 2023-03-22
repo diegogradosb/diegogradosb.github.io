@@ -50,6 +50,8 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
+Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed model analysis of NDVI-based canopy coverage, extracted from sequential UAV multispectral imagery of an open field tomato irrigation experiment*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Ago 2022.
+
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May 2022.
 
 **Grados, D.**, Olesen, J.E., Abalos, D., 2021. *Developing a data and modelling framework for assessing greenhouse gas mitigation strategies*. National Seminar on Technologies for a Danish Zero Greenhouse Gas Emission Agriculture. Middelfart, Denmark, 28 Jun 2021.
