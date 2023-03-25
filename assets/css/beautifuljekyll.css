@@ -3,15 +3,47 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@font-face {
+  font-family: 'corbelbold_italic';
+  src: url('../font/corbel_bold_italic-webfont.woff2') format('woff2'),
+       url('../font/corbel_bold_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
+}
+@font-face {
+  font-family: 'corbelbold';
+  src: url('../font/corbel_bold-webfont.woff2') format('woff2'),
+       url('../font/corbel_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'corbelitalic';
+  src: url('../font/corbel_italic-webfont.woff2') format('woff2'),
+       url('../font/corbel_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'corbelregular';
+  src: url('../font/corbel-webfont.woff2') format('woff2'),
+       url('../font/corbel-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 /* --- General --- */
 
 html{
   font-size: 100%;
 }
 
+
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'cerbelregular', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,7 +59,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelbold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -137,7 +169,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#eaf1f0"}};
   border-bottom: 3px solid {{ site.navbar-border-col | default: "#eaf1f0" }};
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -409,7 +441,7 @@ footer .list-inline {
   margin-bottom: 10px;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
@@ -423,7 +455,7 @@ footer .theme-by {
 footer .footer-custom-content {
   text-align: center;
   /* margin-bottom: 0.9375rem; */
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #ffffff;
 }
 
@@ -462,7 +494,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
@@ -487,7 +519,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'cerbelregular', 'Times New Roman', serif;
 }
 .post-heading .post-meta {
   display: inline-block;
@@ -565,7 +597,7 @@ footer .footer-custom-content {
 /* --- Tags --- */
 
 .blog-tags {
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
   margin: 1.875rem 0;
 }
@@ -608,7 +640,7 @@ footer .footer-custom-content {
 }
 
 #full-tags-list {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
@@ -683,7 +715,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
@@ -708,7 +740,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -751,27 +783,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     margin-top: 40px;
   }
 }
-@media (max-width: 365px) {
-  .header-section.has-img .intro-header.no-img {
-    display: block;
-  }
-  .intro-header.big-img {
-    width: 100%;
-    height: 13.75rem;
-  }
-  .intro-header.big-img .page-heading,
-  .intro-header.big-img .post-heading {
-    display: none;
-  }
-  .header-section.has-img .big-img {
-    margin-bottom: 0;
-  }
-}
-@media (max-width: 325px) {
-  .intro-header.big-img {
-    height: 12.5rem;
-  }
-}
+
 
 #header-gh-btns {
   margin-bottom: 0.9375rem;
@@ -817,7 +829,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .pagination .page-item .page-link {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'cerbelregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 800;
