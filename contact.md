@@ -41,3 +41,10 @@ title: Contact
   <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io/thanks.html' />
   
 </form>
+
+
+<script type="text/javascript">
+    document.getElementById("submit").onclick = function () {
+        location.href = "https://diegogradosb.github.io/thanks.html";
+    };
+</script>
