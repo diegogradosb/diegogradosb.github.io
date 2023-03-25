@@ -34,7 +34,7 @@ title: Contact
   </div>
   <div class="form-group">
     <div class="col-sm-10 col-sm-offset-2">
-      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm">
+      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm" onclick="window.location.href='https://diegogradosb.github.io/thanks.html'">
     </div>
   </div>
   
@@ -45,6 +45,7 @@ title: Contact
 
 <script type="text/javascript">
     document.getElementById("submit").onclick = function () {
-        location.href = "https://diegogradosb.github.io/thanks.html";
+        window.location.href = "https://diegogradosb.github.io/thanks.html";
+        console.log("submit clicked")
     };
 </script>
