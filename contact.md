@@ -44,8 +44,9 @@ title: Contact
 
 
 <script type="text/javascript">
-    document.getElementById("submit").onclick = function () {
-        window.location.href = "https://diegogradosb.github.io/thanks.html";
-        console.log("submit clicked")
-    };
+let btn = document.getElementById('submit');
+btn.onclick = function () {
+    window.location.href = "https://diegogradosb.github.io/thanks.html";
+    console.log("submit clicked")
+}
 </script>
