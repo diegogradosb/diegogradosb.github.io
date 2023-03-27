@@ -6,7 +6,7 @@ title: Contact
 
 <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
 
-<form class="form-horizontal" role="form" action="https://send.pageclip.co/vFZ8fsznxKXaW1v1Vp0vREmezgBXOwky" method="post">
+<form class="form-horizontal" action="https://formsubmit.co/diegogradosb@gmail.com" method="POST">
   
   <div class="form-group">
     <label for="name" class="col-sm-2 control-label">Name:</label>
@@ -34,7 +34,7 @@ title: Contact
   </div>
   <div class="form-group">
     <div class="col-sm-10 col-sm-offset-2">
-      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm" onclick="window.location.href='https://diegogradosb.github.io/thanks.html'">
+      <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm">
     </div>
   </div>
   
