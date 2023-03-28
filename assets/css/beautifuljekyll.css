@@ -699,9 +699,6 @@ footer .footer-custom-content {
   }
   .page-heading,
   .post-heading {
-    position: absolute !important;
-    bottom: 20px !important;
-    top: 20%;
     margin-top: 5rem;
   }
 }
