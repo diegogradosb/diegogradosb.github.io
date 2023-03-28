@@ -6,8 +6,8 @@
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
 
-  <button class="navbar-toggler" style="background-color: #b1c8c6 !important;" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon" ></span>
+  <button class="navbar-toggler" type="button" style="background-color: #b1c8c6 !important;" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="main-navbar">
@@ -26,7 +26,7 @@
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}" style="font-weight: 700; !important"><b style="font-weight: 700 !important;">{{ link[0] }}</b></a>
+            <a class="nav-link" href="{{ link[1] | relative_url }}" style="font-weight: 700 !important; "><strong >{{ link[0] }}</strong></a>
           </li>
         {%- endif -%}
       {%- endfor -%}
