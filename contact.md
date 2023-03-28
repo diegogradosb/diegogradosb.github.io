@@ -37,8 +37,8 @@ title: Contact
       <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary btn-sm">
     </div>
   </div>
-  
-  <input type='hidden' name='redirect_to' value='https://diegogradosb.github.io/thanks.html' />
+  <input type="hidden" name="_next" value="https://diegogradosb.github.io/thanks.html">
+  <input type="hidden" name="_captcha" value="false">
   
 </form>
 
