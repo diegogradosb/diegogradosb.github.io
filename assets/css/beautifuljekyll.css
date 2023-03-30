@@ -191,8 +191,7 @@ img {
   background-color: {{ site.navbar-col | default: "#eaf1f0"}};
   border-bottom: 3px solid {{ site.navbar-border-col | default: "#eaf1f0" }};
   font-family: 'Corbel', sans-serif;
-  /*font-weight: 700;
-  font-weight: bold;
+  font-weight: 700;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -266,8 +265,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  /*font-weight: 700;
-  font-weight: bold;
+  font-weight: 700;
   font-family: "Corbel";
   color: {{ site.navbar-text-col | default: "#70918f" }};
 }
