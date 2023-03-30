@@ -6,8 +6,8 @@ layout: null
 
 @font-face {
   font-family: 'corbelbold_italic';
-  src: url('../font/corbel_bold_italic-webfont.woff2') format('woff2'),
-       url('../font/corbel_bold_italic-webfont.woff') format('woff');
+  src: url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -18,9 +18,9 @@ layout: null
 
 @font-face {
   font-family: 'corbelbold';
-  src: url('../font/corbel_bold-webfont.woff2') format('woff2'),
-       url('../font/corbel_bold-webfont.woff') format('woff');
-  font-weight: normal;
+  src: url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff') format('woff');
+  font-weight: 700;
   font-style: normal;
 
 }
@@ -30,8 +30,8 @@ layout: null
 
 @font-face {
   font-family: 'corbelitalic';
-  src: url('../font/corbel_italic-webfont.woff2') format('woff2'),
-       url('../font/corbel_italic-webfont.woff') format('woff');
+  src: url('http://diegogradosb.github.io/assets/font/corbel_italic-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -42,8 +42,8 @@ layout: null
 
 @font-face {
   font-family: 'corbelregular';
-  src: url('./assets/font/corbel-webfont.woff2') format('woff2'),
-       url('./assets/font/corbel-webfont.woff') format('woff');
+  src: url('http://diegogradosb.github.io/assets/assets/font/corbel-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/assets/font/corbel-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -265,7 +265,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  /* font-weight: 700; */
+  font-weight: 700;
   font-family: "Corbel";
   color: {{ site.navbar-text-col | default: "#70918f" }};
 }
@@ -336,7 +336,7 @@ img {
   background-color: {{ site.navbar-col | default: "#eaf1f0" }};
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
-  font-weight: normal;
+  font-weight: 700 !important;
 }
 
 @media (min-width: 768px) {
