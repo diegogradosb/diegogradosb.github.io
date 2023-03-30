@@ -712,6 +712,19 @@ footer .footer-custom-content {
   .post-heading {
     margin-top: 7.5rem;
   }
+  footer {
+    min-height: 40vh;
+  }
+}
+@media (min-height: 1534px) {
+  footer {
+    min-height: 45vh;
+  }
+}
+@media (min-height: 1880px) {
+  footer {
+    min-height: 55vh;
+  }
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
@@ -1126,8 +1139,8 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  background-image: url("/img/background/background.png");
+  height: 100vh;;
+
 }
 .content {
   flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
