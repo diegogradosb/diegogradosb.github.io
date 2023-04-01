@@ -2,7 +2,7 @@
 layout: contact
 title: Contact
 ---
-> Only one thing has value: originality.You have to work your way through tradition like a good swimmer swims through a stream: the academics drown in it.
+> Only one thing has value: originality. You have to work your way through tradition like a good swimmer swims through a stream: the academics drown in it.
 > <div style="text-align: right"> Gustave Courbet </div>
 
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
