@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-> La couleur est mon obsession quotidienne, ma joie et mon tourment.
+> <i>La couleur est mon obsession quotidienne, ma joie et mon tourment.</i>
 > <div style="text-align: right"> Claude Monet </div>
 
 ## Journal Articles
