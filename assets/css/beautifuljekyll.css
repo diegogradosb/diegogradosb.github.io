@@ -110,7 +110,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
+  font-family: 'corbelitalic';
 }
 blockquote p:first-child {
   margin-top: 0;
