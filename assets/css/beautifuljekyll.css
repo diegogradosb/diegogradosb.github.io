@@ -8,7 +8,7 @@ layout: null
   font-family: 'corbelbold_italic';
   src: url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff2') format('woff2'),
        url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff') format('woff');
-  font-weight: 700;
+  font-weight: bold;
   font-style: italic;
 
 }
@@ -20,7 +20,7 @@ layout: null
   font-family: 'corbelbold';
   src: url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff2') format('woff2'),
        url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff') format('woff');
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 
 }
