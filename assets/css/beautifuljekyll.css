@@ -5,6 +5,51 @@ layout: null
 @import url("pygment_highlights.css");
 
 
+@font-face {
+  font-family: 'corbelbold_italic';
+  src: url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_bold_italic-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'corbelbold';
+  src: url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_bold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'corbelitalic';
+  src: url('http://diegogradosb.github.io/assets/font/corbel_italic-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/font/corbel_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'corbelregular';
+  src: url('http://diegogradosb.github.io/assets/assets/font/corbel-webfont.woff2') format('woff2'),
+       url('http://diegogradosb.github.io/assets/assets/font/corbel-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 /* --- General --- */
 
 html{
