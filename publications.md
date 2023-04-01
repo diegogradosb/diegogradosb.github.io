@@ -9,7 +9,7 @@ title: Publications
 
 ### Under review 
 
-Siddique, I.A., **<u>Grados, D.</u>**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
+Siddique, I.A., **<b>Grados, D.</b>**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
 
 ### Under preparation
 
