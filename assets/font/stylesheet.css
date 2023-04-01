@@ -6,8 +6,8 @@
     font-family: 'corbelbold_italic';
     src: url('corbel_bold_italic-webfont.woff2') format('woff2'),
          url('corbel_bold_italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-weight: bold;
+    font-style: italic;
 
 }
 
@@ -18,7 +18,7 @@
     font-family: 'corbelbold';
     src: url('corbel_bold-webfont.woff2') format('woff2'),
          url('corbel_bold-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 
 }
@@ -31,7 +31,7 @@
     src: url('corbel_italic-webfont.woff2') format('woff2'),
          url('corbel_italic-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 
 }
 
