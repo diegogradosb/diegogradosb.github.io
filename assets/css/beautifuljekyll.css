@@ -109,7 +109,7 @@ a:focus {
   color: {{ site.hover-col | default: "#70918f" }};
 }
 blockquote {
-  font-family: 'corbelbold';
+  font-family: 'corbelbold', sans-serif;
   color: #808080;
   font-style: italic;
 }
