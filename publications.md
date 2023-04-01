@@ -9,11 +9,11 @@ title: Publications
 
 ### Under review 
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
+Siddique, I.A., <u>**Grados, D.**</u>, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
 
 ### Under preparation
 
-**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Effect of climate change adaptation strategies on greenhouse gas emissions and crop yield: A diversified rotation study case*.
+**<u>Grados, D.</u>**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Effect of climate change adaptation strategies on greenhouse gas emissions and crop yield: A diversified rotation study case*.
 
 **Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
 
@@ -34,7 +34,7 @@ Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, Schrevens, E., 2021. *Linear 
 **Grados, D.**, Schrevens, E., 2019. *Multidimensional analysis of environmental impacts from potato agricultural production in the Peruvian Central Andes*. Science of The Total Environment, 663, 927–934. [http://dx.doi.org/10.1016/j.scitotenv.2019.01.414](http://dx.doi.org/10.1016/j.scitotenv.2019.01.414).
 
 ## Conference Proceedings [Peer-Reviewed]
-
+  
 **Grados, D.**, Heuts, R., García, S., Schrevens, E.,  2021. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [https://doi.org/10.17660%2Factahortic.2021.1326.33](https://doi.org/10.17660%2Factahortic.2021.1326.33).
 
 **Grados, D.**, García, S., Schrevens, E., 2019. *Nitrogen and water use efficiency under rain-fed potato agriculture: an experimental study*. Acta Horticulturae, 1253, 243–252. International Symposium on Water and Nutrient Relations and Management of Horticultural Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.2019.1253.33](http://dx.doi.org/10.17660/actahortic.2019.1253.33).
