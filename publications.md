@@ -15,7 +15,7 @@ Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *S
 
 **Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Effect of climate change adaptation strategies on greenhouse gas emissions and crop yield: A diversified rotation study case*.
 
-**Grados, D.<**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
+**Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
 
 Gutierrez, S., Møller, A.B, Gomes, L., Giannini-Kurina, F., Beucher, A., **Grados, D.**, de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon in Danish agroecosystems*.
 
