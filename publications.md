@@ -76,6 +76,6 @@ Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Opt
 
 **Grados, D.**, 2021. *Multi‐target methodologies for agroecosystems research*. Postgraduate School of Agrarian National University La Molina. Online, 16 Feb 2021.
 
-## Outreach (invited talks)
+## Outreach
 
 **Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
