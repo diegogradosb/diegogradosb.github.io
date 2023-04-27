@@ -14,3 +14,5 @@ title: Search
   })();
 </script>
 <gcse:search></gcse:search>
+
+[![](https://raw.githubusercontent.com/diegogradosb/diegogradosb.github.io/master/img/stripes/warming_biodiversity_freshwater_stripes.png)](https://biodiversitystripes.info/).
