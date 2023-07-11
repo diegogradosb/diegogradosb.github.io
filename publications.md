@@ -11,7 +11,7 @@ title: Publications
 
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
 
-Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon in Danish agroecosystems*.  [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
+Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*.  [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
 
 ### Under preparation
 
