@@ -10,7 +10,7 @@ author: Diego Grados
 
 navbar-links:
   <i class="fas fa-chart-area"></i> Research: "research"
-  <i class="fas fa-user-tie" aria-hidden="true" fa-2x></i> Profile: "profile"
+  <i class="fas fa-user-graduate" aria-hidden="true" fa-2x></i> Profile: "profile"
   <i class="fas fa-seedling" aria-hidden="true" fa-2x></i> About me: "aboutme"
   <i class="far fa-copy"></i> Publications: "publications"
   <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
