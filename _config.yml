@@ -62,7 +62,7 @@ social-network-links:
 #  researchgate: Diego-Grados
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-5548-3204
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?hl=en&user=78kPWSAAAAAJ&view_op=list_works&sortby=pubdate
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
