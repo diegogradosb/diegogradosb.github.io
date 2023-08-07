@@ -42,19 +42,19 @@ title-img: "/img/avatar/pic_avatar.jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "diegogradosb@gmail.com"
-#   facebook: deanattali
+#   facebook: yourname
   github: diegogradosb
 #   twitter: diegogradosb
 #  reddit: yourname
   linkedin: diegogradosb
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  stackoverflow: "3943160/yourname"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +0000000
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -147,10 +147,10 @@ page-img: "/img/background/body.png"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-92968660-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-92968660-1"
+#google_analytics: "UA-92968660-1"
 
 
 # Google Tag Manager ID
