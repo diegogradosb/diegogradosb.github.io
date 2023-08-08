@@ -9,13 +9,13 @@ title: Publications
 
 ### Under review 
 
+**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*.[Preprint](https://osf.io/rwdn7/).
+
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
 
 Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*.  [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
 
 ### Under preparation
-
-**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Effect of climate change adaptation strategies on greenhouse gas emissions and crop yield: A diversified rotation study case*.
 
 **Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
 
