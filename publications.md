@@ -19,7 +19,7 @@ Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., B
 
 ### Published
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
