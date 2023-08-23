@@ -78,6 +78,6 @@ Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Opt
 
 ## Outreach
 
-**Grados, D.**, *Practices to mitigate nitrous oxide emissions from agroecosystems*. Klimatorium, Viborg, Denmark, 14 Ago 2023.
+**Grados, D.**, 2023. *Practices to mitigate nitrous oxide emissions from agroecosystems*. Klimatorium, Viborg, Denmark, 14 Ago 2023.
 
 **Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
