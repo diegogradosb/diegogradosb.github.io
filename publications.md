@@ -19,13 +19,13 @@ Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., B
 
 ### Published
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development, 43, 58. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
 
-**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters, 17(11), 114024. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
-Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, Schrevens, E., 2021. *Linear mixed model analysis of NDVI-based canopy coverage, extracted from sequential UAV multispectral imagery of an open field tomato irrigation experiment*. Computers and Electronics in Agriculture. [http://dx.doi.org/10.1016/j.compag.2021.106399](http://dx.doi.org/10.1016/j.compag.2021.106399).
+Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, Schrevens, E., 2021. *Linear mixed model analysis of NDVI-based canopy coverage, extracted from sequential UAV multispectral imagery of an open field tomato irrigation experiment*. Computers and Electronics in Agriculture, 189, 106399. [http://dx.doi.org/10.1016/j.compag.2021.106399](http://dx.doi.org/10.1016/j.compag.2021.106399).
 
-**Grados, D.**, Schrevens, E., 2020. *Cassava NDVI analysis: a nonlinear mixed model approach based on UAV-imagery*. PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science. [http://dx.doi.org/10.1007/s41064-020-00116-x](http://dx.doi.org/10.1007/s41064-020-00116-x).
+**Grados, D.**, Schrevens, E., 2020. *Cassava NDVI analysis: a nonlinear mixed model approach based on UAV-imagery*. PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, 88(3–4), 337–347. [http://dx.doi.org/10.1007/s41064-020-00116-x](http://dx.doi.org/10.1007/s41064-020-00116-x).
 
 **Grados, D.**, Reynarfaje, X., Schrevens, E., 2020. *A methodological approach to assess canopy NDVI–based tomato dynamics under irrigation treatments*. Agricultural Water Management, 240, 106208. [http://dx.doi.org/10.1016/j.agwat.2020.106208](http://dx.doi.org/10.1016/j.agwat.2020.106208).
 
