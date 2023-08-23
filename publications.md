@@ -9,17 +9,17 @@ title: Publications
 
 ### Under review 
 
-**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*.[Preprint](https://osf.io/rwdn7/).
+**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. [Preprint](https://doi.org/10.2139/ssrn.4292665).
-
-Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*.  [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
+Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
 
 ### Under preparation
 
 **Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
 
 ### Published
+
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: A meta-analysis*. Agronomy for Sustainable Development. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
