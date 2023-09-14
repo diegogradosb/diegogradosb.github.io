@@ -11,13 +11,13 @@ title: Publications
 
 **Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
 
-Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Giannini-Kurina, F., Beucher, A., de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. [Preprint](http://dx.doi.org/10.2139/ssrn.4500486).
-
 ### Under preparation
 
 **Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
 
 ### Published
+
+Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Beucher, A., Giannini-Kurina, F.,  de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. Science of The Total Environment, 166921. [https://doi.org/10.1016/j.scitotenv.2023.166921](https://doi.org/10.1016/j.scitotenv.2023.166921).
 
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development, 43, 58. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
 
