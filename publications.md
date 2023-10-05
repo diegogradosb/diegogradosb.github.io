@@ -9,7 +9,7 @@ title: Publications
 
 ### Under review 
 
-**Grados, D.**, Kraus, D., Haas, E., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
+**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
 
 ### Under preparation
 
