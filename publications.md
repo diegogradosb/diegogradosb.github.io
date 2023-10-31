@@ -11,6 +11,8 @@ title: Publications
 
 **Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
 
+Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., Grados, D., Lu., M., Terrer, C., 2023. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
+
 ### Under preparation
 
 **Grados, D.**, Rahimi, J., Haas, E., Clemens, S., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Regional modeling to mitigate climate change impacts on Danish agroecosystems through greenhouse gas emissions reduction*.
