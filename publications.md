@@ -50,6 +50,10 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *Soil organic carbon stock change following perennialization: a meta-analysis*. International Symposium on Soil Carbon in the Ecological Transition. Paris, France, 24-26 Jan 2024.
+
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. International Symposium on Non-CO2 Greenhouse Gases. Amsterdam, the Netherlands, 21-23 Jun 2023.
+
 Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed model analysis of NDVI-based canopy coverage, extracted from sequential UAV multispectral imagery of an open field tomato irrigation experiment*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Ago 2022.
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May 2022.
