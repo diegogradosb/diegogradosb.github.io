@@ -62,7 +62,7 @@ Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear 
 
 **Grados, D.**, Heuts, R., García, S., Schrevens, E., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
-Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E. 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
+Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E., 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
 **Grados, D.**, Gil, R., Raymaekers, D., Schrevens, E., 2017. *Developing of an automated UAV-based RGB imagery workflow analysis for land use evaluation*. European Federation for Information Technology in Agriculture, Food and the Environment. Montpellier, France, 02-06 Jul 2017. ISBN: 978-2-85362-686-6.
 
@@ -89,5 +89,5 @@ Dec 2018.
 
 **Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
 
-**Grados, D.**, Schrevens, E., *Exploring main agricultural systems and their environmental impact in the Central Andes of
+**Grados, D.**, Schrevens, E., 2016. *Exploring main agricultural systems and their environmental impact in the Central Andes of
 Peru*. KU Leuven, Leuven, Belgium, 23 May 2016.
