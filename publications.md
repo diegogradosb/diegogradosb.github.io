@@ -80,8 +80,14 @@ Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Opt
 
 **Grados, D.**, 2021. *Multi‐target methodologies for agroecosystems research*. Postgraduate School of Agrarian National University La Molina. Online, 16 Feb 2021.
 
+**Grados, D.**, Schrevens, E., 2018. *Farming system research in Peru - VLIR-UOS Collaboration*. Bozar, Brussels, Belgium, 20
+Dec 2018.
+
 ## Outreach
 
 **Grados, D.**, 2023. *Practices to mitigate nitrous oxide emissions from agroecosystems*. Klimatorium, Viborg, Denmark, 14 Ago 2023.
 
 **Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
+
+**Grados, D.**, Schrevens, E., *Exploring main agricultural systems and their environmental impact in the Central Andes of
+Peru*. KU Leuven, Leuven, Belgium, 23 May 2016.
