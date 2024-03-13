@@ -9,17 +9,17 @@ title: Publications
 
 ### Under review 
 
-**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2023. *Agronomic adaptation strategies to climate change may increase soil greenhouse gas emission*. [Preprint](https://osf.io/rwdn7/).
-
 Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2023. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
 
 Rahimi, J., Haas, E., Clemens, S., **Grados, D.**, Abalos, D., Ojo Aderele, M., Blicher-Mathiesen, G., Butterbach-Bahl, K., 2023. *Aggregation of activity data on crop management can induce large uncertainties in estimates of regional nitrogen budgets*.
 
 ### Published
 
-Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Beucher, A., Giannini-Kurina, F.,  de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. Science of The Total Environment, 166921. [https://doi.org/10.1016/j.scitotenv.2023.166921](https://doi.org/10.1016/j.scitotenv.2023.166921).
+**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2024. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emission in Northern Europe*. Agricultural and Forest Meteorology, 349, 109966. [https://doi.org/10.1016/j.agrformet.2024.109966](https://doi.org/10.1016/j.agrformet.2024.109966).
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development, 43, 58. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
+Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Beucher, A., Giannini-Kurina, F.,  de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. Science of The Total Environment, 905, 166921. [https://doi.org/10.1016/j.scitotenv.2023.166921](https://doi.org/10.1016/j.scitotenv.2023.166921).
+
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2023. *Soil organic carbon stock change following perennialization: a meta-analysis*. Agronomy for Sustainable Development, 43(5), 58. [https://doi.org/10.1007/s13593-023-00912-w](https://doi.org/10.1007/s13593-023-00912-w).
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Environmental Research Letters, 17(11), 114024. [https://doi.org/10.1088/1748-9326/ac9b50](https://doi.org/10.1088/1748-9326/ac9b50).
 
