@@ -11,11 +11,11 @@ title: Publications
 
 Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2023. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
 
-Rahimi, J., Haas, E., Clemens, S., **Grados, D.**, Abalos, D., Ojo Aderele, M., Blicher-Mathiesen, G., Butterbach-Bahl, K., 2023. *Aggregation of activity data on crop management can induce large uncertainties in estimates of regional nitrogen budgets*.
-
 ### Published
 
 **Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2024. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emission in Northern Europe*. Agricultural and Forest Meteorology, 349, 109966. [https://doi.org/10.1016/j.agrformet.2024.109966](https://doi.org/10.1016/j.agrformet.2024.109966).
+
+Rahimi, J., Haas, E., Clemens, S., **Grados, D.**, Abalos, D., Ojo Aderele, M., Blicher-Mathiesen, G., Butterbach-Bahl, K., 2024. *Aggregation of activity data on crop management can induce large uncertainties in estimates of regional nitrogen budgets*. npj Sustainable Agriculture, 2, 7. [https://doi.org/10.1038/s44264-024-00015-3](https://doi.org/10.1038/s44264-024-00015-3).
 
 Gutierrez, S., **Grados, D.**, Møller, A.B, Gomes, L.C., Beucher, A., Giannini-Kurina, F.,  de Jonge, L.W., Greve, M.H., 2023. *Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems*. Science of The Total Environment, 905, 166921. [https://doi.org/10.1016/j.scitotenv.2023.166921](https://doi.org/10.1016/j.scitotenv.2023.166921).
 
