@@ -9,6 +9,8 @@ title: Publications
 
 ### Under review 
 
+Michailidis, V., Lugato, E., **Grados, D.**, Panagos, P., Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*.
+
 Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2023. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
 
 ### Published
@@ -50,6 +52,10 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
+**Grados, D.**, Einarsson, R., Sanz Cobeña, A., Abalos, D., 2024. *Development and evaluation of agricultural nitrogen budgets in Denmark and Sweden*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
+
+Michailidis, V., Lugato, E., **Grados, D.**, Panagos, P., Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
+
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *Soil organic carbon stock change following perennialization: a meta-analysis*. International Symposium on Soil Carbon in the Ecological Transition. Paris, France, 24-26 Jan 2024.
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2023. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. International Symposium on Non-CO2 Greenhouse Gases. Amsterdam, the Netherlands, 21-23 Jun 2023.
@@ -80,8 +86,7 @@ Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Opt
 
 **Grados, D.**, 2021. *Multi‐target methodologies for agroecosystems research*. Postgraduate School of Agrarian National University La Molina. Online, 16 Feb 2021.
 
-**Grados, D.**, Schrevens, E., 2018. *Farming system research in Peru - VLIR-UOS Collaboration*. Bozar, Brussels, Belgium, 20
-Dec 2018.
+**Grados, D.**, Schrevens, E., 2018. *Farming system research in Peru - VLIR-UOS Collaboration*. Bozar, Brussels, Belgium, 20 Dec 2018.
 
 ## Outreach
 
@@ -89,5 +94,4 @@ Dec 2018.
 
 **Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
 
-**Grados, D.**, Schrevens, E., 2016. *Exploring main agricultural systems and their environmental impact in the Central Andes of
-Peru*. KU Leuven, Leuven, Belgium, 23 May 2016.
+**Grados, D.**, Schrevens, E., 2016. *Exploring main agricultural systems and their environmental impact in the Central Andes of Peru*. KU Leuven, Leuven, Belgium, 23 May 2016.
