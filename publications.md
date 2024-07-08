@@ -9,7 +9,7 @@ title: Publications
 
 ### Under review 
 
-Michailidis, V., Lugato, E., **Grados, D.**, Panagos, P., Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*.
+Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. [Preprint](http://doi.org/10.2139/ssrn.4883082).
 
 Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2023. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
 
