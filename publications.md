@@ -54,7 +54,7 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 **Grados, D.**, Einarsson, R., Sanz Cobeña, A., Abalos, D., 2024. *Development and evaluation of agricultural nitrogen budgets in Denmark and Sweden*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
 
-Michailidis, V., Lugato, E., **Grados, D.**, Panagos, P., Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
+Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
 
 Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *Soil organic carbon stock change following perennialization: a meta-analysis*. International Symposium on Soil Carbon in the Ecological Transition. Paris, France, 24-26 Jan 2024.
 
