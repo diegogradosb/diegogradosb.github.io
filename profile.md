@@ -8,7 +8,7 @@ title: Profile
 ## Actual Affiliation
 * [Section of Climate and Water](https://agro.au.dk/en/research/research-sections/climate-and-water/) \| [iCLIMATE](https://iclimate.au.dk/research/agriculture-climate)
 * [Agroecology Department](https://agro.au.dk/en/) - Faculty of Technical Sciences - AU
-* [Blichers Allé 20, Postboks 50, Building 8820, Office 2008, 8830 Tjele, Denmark](https://agro.au.dk/en/about-the-department/contact-agroecology/)
+* [Blichers Allé 20, 8830 Tjele, Denmark](https://agro.au.dk/en/about-the-department/contact-agroecology/)
 
 ### Previous Affiliations
 * [Groups of Biostatistics and Sustainability](http://www.biw.kuleuven.be/biosyst/mebios)
