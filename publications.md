@@ -11,11 +11,11 @@ title: Publications
 
 **Grados, D.**, Einarsson, R., Sanz Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2024. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. [Preprint](https://doi.org/10.31219/osf.io/ght9r)
 
-Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. [Preprint](http://doi.org/10.2139/ssrn.4883082).
-
-Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2024. *Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems*. [Preprint](https://www.researchsquare.com/article/rs-3462045/v1).
+Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2025. *Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems*. [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3661/egusphere-2024-3661.pdf).
 
 ### Published
+
+Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2025. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. [https://www.sciencedirect.com/science/article/pii/S0308521X25000034](https://www.sciencedirect.com/science/article/pii/S0308521X25000034).
 
 **Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2024. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emission in Northern Europe*. Agricultural and Forest Meteorology, 349, 109966. [https://doi.org/10.1016/j.agrformet.2024.109966](https://doi.org/10.1016/j.agrformet.2024.109966).
 
