@@ -9,11 +9,11 @@ title: Publications
 
 ### Under review 
 
-**Grados, D.**, Einarsson, R., Sanz Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2024. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. [Preprint](https://doi.org/10.31219/osf.io/ght9r)
-
 Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2025. *Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems*. [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3661/egusphere-2024-3661.pdf).
 
 ### Published
+
+**Grados, D.**, Einarsson, R., Sanz-Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2025. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. [https://doi.org/10.1088/1748-9326/adca4a](https://doi.org/10.1088/1748-9326/adca4a).
 
 Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2025. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. [https://doi.org/10.1016/j.agsy.2025.104263](https://doi.org/10.1016/j.agsy.2025.104263).
 
