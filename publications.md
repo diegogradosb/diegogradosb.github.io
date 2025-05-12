@@ -13,9 +13,9 @@ Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Č
 
 ### Published
 
-**Grados, D.**, Einarsson, R., Sanz-Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2025. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. [https://doi.org/10.1088/1748-9326/adca4a](https://doi.org/10.1088/1748-9326/adca4a).
+**Grados, D.**, Einarsson, R., Sanz-Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2025. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. Environmental Research Letters, 20(5), 054041. [https://doi.org/10.1088/1748-9326/adca4a](https://doi.org/10.1088/1748-9326/adca4a).
 
-Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2025. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. [https://doi.org/10.1016/j.agsy.2025.104263](https://doi.org/10.1016/j.agsy.2025.104263).
+Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2025. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. Agricultural Systems, 224, 104263. [https://doi.org/10.1016/j.agsy.2025.104263](https://doi.org/10.1016/j.agsy.2025.104263).
 
 **Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2024. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emission in Northern Europe*. Agricultural and Forest Meteorology, 349, 109966. [https://doi.org/10.1016/j.agrformet.2024.109966](https://doi.org/10.1016/j.agrformet.2024.109966).
 
