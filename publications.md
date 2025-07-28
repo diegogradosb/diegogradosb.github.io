@@ -7,13 +7,11 @@ title: Publications
 
 ## Journal Articles
 
-### Under review 
-
-Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2025. *Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems*. [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3661/egusphere-2024-3661.pdf).
-
 ### Published
 
 **Grados, D.**, Einarsson, R., Sanz-Cobeña, A., Olesen, J.E., Børsting, C.F., Abalos, D., 2025. *Quantification and comparison of national and subnational agricultural nitrogen flows in Denmark and Sweden*. Environmental Research Letters, 20(5), 054041. [https://doi.org/10.1088/1748-9326/adca4a](https://doi.org/10.1088/1748-9326/adca4a).
+
+Vallicrosa, H., Fleischer, K., Delgado Baquerizo, M., Fernandez-Martinez, M., Černý, J., Tian. D., Kourmouli, A., Mayoral, C., **Grados, D.**, Lu., M., Terrer, C., 2025. *Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems*. Earth System Dynamics, 16(4), 1183-1196. [https://doi.org/10.5194/esd-16-1183-2025 ](https://doi.org/10.5194/esd-16-1183-2025).
 
 Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2025. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. Agricultural Systems, 224, 104263. [https://doi.org/10.1016/j.agsy.2025.104263](https://doi.org/10.1016/j.agsy.2025.104263).
 
