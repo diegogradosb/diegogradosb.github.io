@@ -79,19 +79,3 @@ Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E., 2017. *Effect of defic
 **Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov 2014.
 
 Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Optimal fertilization to improve potato production in the Peruvian Central Andes*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov 2014.
-
-## Invited Talks
-
-**Grados, D.**, Olesen, J.E., Abalos, D., 2022. *Tackling emissions of nitrous oxide from agroecosystems*. SustES Bořetice meeting. Bořetice, Czech Republic, 25-27 Apr 2022.
-
-**Grados, D.**, 2021. *Multi‐target methodologies for agroecosystems research*. Postgraduate School of Agrarian National University La Molina. Online, 16 Feb 2021.
-
-**Grados, D.**, Schrevens, E., 2018. *Farming system research in Peru - VLIR-UOS Collaboration*. Bozar, Brussels, Belgium, 20 Dec 2018.
-
-## Outreach
-
-**Grados, D.**, 2023. *Practices to mitigate nitrous oxide emissions from agroecosystems*. Klimatorium, Viborg, Denmark, 14 Ago 2023.
-
-**Grados, D.**, 2022. *Measures for reducing nitrous oxide from agricultural soils*. Farmbrella, Viborg, Denmark, 17 Nov 2022.
-
-**Grados, D.**, Schrevens, E., 2016. *Exploring main agricultural systems and their environmental impact in the Central Andes of Peru*. KU Leuven, Leuven, Belgium, 23 May 2016.
