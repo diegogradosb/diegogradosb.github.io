@@ -60,7 +60,7 @@ Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *S
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2023. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. International Symposium on Non-CO2 Greenhouse Gases. Amsterdam, the Netherlands, 21-23 Jun 2023.
 
-Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed models to investigate tomato canopy coverage dynamics, extracted from sequential UAV multispectral images*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Ago 2022.
+Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed models to investigate tomato canopy coverage dynamics, extracted from sequential UAV multispectral images*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Aug 2022.
 
 **Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May 2022.
 
