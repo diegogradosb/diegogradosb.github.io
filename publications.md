@@ -52,30 +52,36 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
-**Grados, D.**, Einarsson, R., Sanz Cobeña, A., Abalos, D., 2024. *Development and evaluation of agricultural nitrogen budgets in Denmark and Sweden*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
+**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2025. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emissions in Northern Europe*. American Geophysical Union. New Orleans, United States, 13–19 Dec.
 
-Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun 2024.
+**Grados, D.**, Pan, N., Hao, W., Zong, M., Tang, X., You, Y., Tian, H., Terrer, C., Abalos, D., 2025. *Advancing the global understanding and quantification of nitrous oxide emissions from agricultural soil*. American Geophysical Union. New Orleans, United States, 13–19 Dec.
 
-Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *Soil organic carbon stock change following perennialization: a meta-analysis*. International Symposium on Soil Carbon in the Ecological Transition. Paris, France, 24-26 Jan 2024.
+Abalos, D., Butterbach‐Bahl, K., Rahimi, J., Haas, E., Kraus, D., **Grados, D.**, Beucher, A.M., Olesen, J.E., 2024. *Towards a Tier 3 inventory for soil N2O emissions in Denmark*. American Geophysical Union. Washington D.C., United States, 9–13 Dec.
 
-**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2023. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. International Symposium on Non-CO2 Greenhouse Gases. Amsterdam, the Netherlands, 21-23 Jun 2023.
+**Grados, D.**, Einarsson, R., Sanz Cobeña, A., Abalos, D., 2024. *Development and evaluation of agricultural nitrogen budgets in Denmark and Sweden*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun.
 
-Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed models to investigate tomato canopy coverage dynamics, extracted from sequential UAV multispectral images*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Aug 2022.
+Michailidis, V., Lugato, E., Panagos, P., **Grados, D.**, Freund, F., Jones, A., Abalos, D., 2024. *How do diet shifts affect the greenhouse gas balance of agricultural soils? Denmark as a case study*. International Nitrogen Workshop. Aarhus, Denmark, 17-21 Jun.
 
-**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May 2022.
+Siddique, I.A., **Grados, D.**, Chen, J., Lærke, P.E., Jørgensen, U., 2024. *Soil organic carbon stock change following perennialization: a meta-analysis*. International Symposium on Soil Carbon in the Ecological Transition. Paris, France, 24-26 Jan.
 
-**Grados, D.**, Olesen, J.E., Abalos, D., 2021. *Developing a data and modelling framework for assessing greenhouse gas mitigation strategies*. National Seminar on Technologies for a Danish Zero Greenhouse Gas Emission Agriculture. Middelfart, Denmark, 28 Jun 2021.
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2023. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. International Symposium on Non-CO2 Greenhouse Gases. Amsterdam, the Netherlands, 21-23 Jun.
 
-**Grados, D.**, Heuts, R., García, S., Schrevens, E., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
+Schrevens, E., Garcia-Garcia, D., Reynafarje, X., **Grados, D.**, 2022. *Linear mixed models to investigate tomato canopy coverage dynamics, extracted from sequential UAV multispectral images*. International Symposium on Innovative Technologies and Production Strategies for Sustainable Controlled Environment Horticulture. Angers, France, 14-16 Aug.
 
-Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E., 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun 2017. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
+**Grados, D.**, Butterbach-Bahl, K., Chen, J., Van Groenigen, K.J., Olesen, J.E., Van Groenigen, J.W., Abalos, D., 2022. *Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems*. Zero Greenhouse Gas Emission in High Productive Agriculture. Copenhagen, Denmark, 03-05 May.
 
-**Grados, D.**, Gil, R., Raymaekers, D., Schrevens, E., 2017. *Developing of an automated UAV-based RGB imagery workflow analysis for land use evaluation*. European Federation for Information Technology in Agriculture, Food and the Environment. Montpellier, France, 02-06 Jul 2017. ISBN: 978-2-85362-686-6.
+**Grados, D.**, Olesen, J.E., Abalos, D., 2021. *Developing a data and modelling framework for assessing greenhouse gas mitigation strategies*. National Seminar on Technologies for a Danish Zero Greenhouse Gas Emission Agriculture. Middelfart, Denmark, 28 Jun.
 
-**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: a first approach towards land use classification*. National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb 2016.
+**Grados, D.**, Heuts, R., García, S., Schrevens, E., 2017. *Exploring biophysical components in rain-fed potato systems in the Peruvian Central Andes*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
-**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun 2015.
+Reynafarje, X., **Grados, D.**, Casas, A., Schrevens, E., 2017. *Effect of deficit irrigation and soil water content on tomato yield in the Peruvian Semi-arid Coastline*. South-Eastern Europe Symposium on Vegetables & Potatoes. Maribor, Slovenia, 20-23 Jun. [http://dx.doi.org/10.18690/978-961-286-045-5.68](http://dx.doi.org/10.18690/978-961-286-045-5.68).
 
-**Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov 2014.
+**Grados, D.**, Gil, R., Raymaekers, D., Schrevens, E., 2017. *Developing of an automated UAV-based RGB imagery workflow analysis for land use evaluation*. European Federation for Information Technology in Agriculture, Food and the Environment. Montpellier, France, 02-06 Jul. ISBN: 978-2-85362-686-6.
 
-Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Optimal fertilization to improve potato production in the Peruvian Central Andes*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov 2014.
+**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2016. *Use of UAV-based RGB imagery in agro-ecosystems research: a first approach towards land use classification*. National Symposium on Applied Biological Sciences. Antwerp, Belgium, 05 Feb.
+
+**Grados, D.**, Raymaekers, D., Biesemans, J., Schrevens, E., 2015. *Land use evaluation based on Unmanned Aerial Vehicles (UAV, DRONE) data: clustering superpixels for orthophoto segmentation*. European Network for Business and Industrial Statistics Spring Meeting. Barcelona, Spain, 04-05 Jun.
+
+**Grados, D.**, Reynafarje, X., Vera, J., Schrevens, E., 2014. *Soil water balance modeling in the Peruvian Central Andes: a first approach*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
+
+Reynafarje, X., **Grados, D.**, Vera, J., Vetters, E., Schrevens, E., 2014. *Optimal fertilization to improve potato production in the Peruvian Central Andes*. Latin American Soil Science Congress. Cusco, Peru, 09-15 Nov.
