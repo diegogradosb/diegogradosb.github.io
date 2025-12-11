@@ -52,9 +52,9 @@ Crops. Istanbul, Turkey, 12-16 Aug 2018. [http://dx.doi.org/10.17660/actahortic.
 
 ## Conference Abstracts
 
-**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2025. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emissions in Northern Europe*. American Geophysical Union. New Orleans, United States, 13–19 Dec.
+**Grados, D.**, Kraus, D., Haas, E., Butterbach-Bahl, K., Olesen, J.E., Abalos, D., 2025. *Common agronomic adaptation strategies to climate change may increase soil greenhouse gas emissions in Northern Europe*. American Geophysical Union. New Orleans, United States, 15–19 Dec.
 
-**Grados, D.**, Pan, N., Hao, W., Zong, M., Tang, X., You, Y., Tian, H., Terrer, C., Abalos, D., 2025. *Advancing the global understanding and quantification of nitrous oxide emissions from agricultural soil*. American Geophysical Union. New Orleans, United States, 13–19 Dec.
+**Grados, D.**, Pan, N., Hao, W., Zong, M., Tang, X., You, Y., Tian, H., Terrer, C., Abalos, D., 2025. *Advancing the global understanding and quantification of nitrous oxide emissions from agricultural soil*. American Geophysical Union. New Orleans, United States, 15–19 Dec.
 
 Abalos, D., Butterbach‐Bahl, K., Rahimi, J., Haas, E., Kraus, D., **Grados, D.**, Beucher, A.M., Olesen, J.E., 2024. *Towards a Tier 3 inventory for soil N2O emissions in Denmark*. American Geophysical Union. Washington D.C., United States, 9–13 Dec.
 
