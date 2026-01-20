@@ -3,7 +3,7 @@ layout: page
 title: Profile
 ---
 <!--- > Some people say, How can you live without knowing? I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know. -->
-<!---> <div style="text-align: right"> Richard Feynman </div> -->
+<!--- > <div style="text-align: right"> Richard Feynman </div> -->
 
 ## Actual Affiliation
 [Climate, Environment and Life Science](https://cee.mit.edu/research/climate-environment/)<br/>
