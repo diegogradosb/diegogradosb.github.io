@@ -6,17 +6,17 @@ title: Profile
 <!--- > <div style="text-align: right"> Richard Feynman </div> -->
 
 ## Actual Affiliation
-[Climate, Environment and Life Science](https://cee.mit.edu/research/climate-environment/)<br/>
-[Department of Civil and Environmental Engineering](https://cee.mit.edu/)<br/>
-Massachusetts Institute of Technology<br/>
-[Building 48 - Room 208, 15 Vassar Street, Cambridge, Massachusetts 02139, USA](https://whereis.mit.edu/?go=48)
-<br/><br/>
 [Section of Climate and Water](https://agro.au.dk/en/research/research-sections/climate-and-water/) \| [iCLIMATE](https://iclimate.au.dk/research/agriculture-climate)<br/>
 [Department of Agroecology](https://agro.au.dk/en/)<br/>
 Faculty of Technical Sciences - Aarhus University<br/>
 [Blichers Allé 20, 8830 Tjele, Denmark](https://agro.au.dk/en/about-the-department/contact-agroecology/)
 
 ## Previous Affiliations
+[Climate, Environment and Life Science](https://cee.mit.edu/research/climate-environment/)<br/>
+[Department of Civil and Environmental Engineering](https://cee.mit.edu/)<br/>
+Massachusetts Institute of Technology<br/>
+[Building 48, 15 Vassar Street, Cambridge, Massachusetts 02139, USA](https://whereis.mit.edu/?go=48)
+<br/><br/>
 [Groups of Biostatistics and Sustainability](http://www.biw.kuleuven.be/biosyst/mebios)<br/>
 [Department of Biosystems](https://www.biw.kuleuven.be/english)<br/>
 Faculty of Bioscience Engineering - KU Leuven<br/>
